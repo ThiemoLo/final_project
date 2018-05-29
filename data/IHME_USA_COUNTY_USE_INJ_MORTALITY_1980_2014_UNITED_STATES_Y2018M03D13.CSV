@@ -1,0 +1,421 @@
+"measure_id","measure_name","location_id","location_name","FIPS","cause_id","cause_name","sex_id","sex","age_id","age_name","year_id","metric","mx","lower","upper"
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1980,"Rate",5.1870484928789,4.75935544103872,5.7270392591287
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1981,"Rate",5.062316615578,4.69911953240479,5.63158970827447
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1982,"Rate",4.90624996719075,4.5921949282722,5.58106328273029
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1983,"Rate",4.84103072768505,4.55630451703922,5.54294092577138
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1984,"Rate",4.82453760595719,4.55632034298772,5.49851186603672
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1985,"Rate",4.86955399593666,4.61697728606056,5.46511176112242
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1986,"Rate",4.88868775824465,4.63774468778723,5.43147935250235
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1987,"Rate",4.87544500466187,4.64141286852952,5.38376535615371
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1988,"Rate",4.95277618273529,4.72136629568648,5.35805088335875
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1989,"Rate",4.95671596146203,4.73077927126238,5.25656863608511
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1990,"Rate",4.94460324711948,4.72480386049499,5.22232305117476
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1991,"Rate",4.91066252873508,4.68822705482075,5.18317994478275
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1992,"Rate",4.87764051325512,4.65200624006406,5.14266262519419
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1993,"Rate",4.93581574227173,4.69763180316842,5.18112159257489
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1994,"Rate",4.90542933502484,4.66301735877438,5.16280369443139
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1995,"Rate",4.89225964876261,4.64214023632996,5.1647369596229
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1996,"Rate",4.74598343025707,4.50370443017704,5.02386577294298
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1997,"Rate",4.62023064615692,4.38570566140588,4.89162674699005
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1998,"Rate",4.56086995460769,4.32637302648946,4.81722623807627
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1999,"Rate",4.56112089821674,4.3393702158276,4.79676003368863
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2000,"Rate",4.58788439924723,4.37379028484808,4.81164343500925
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2001,"Rate",4.65184651273106,4.43446412500426,4.85566678368802
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2002,"Rate",4.69179712817667,4.48304286817175,4.89045487853467
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2003,"Rate",4.69750419686616,4.49182271161077,4.89414873564286
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2004,"Rate",4.65083034951079,4.44488832986632,4.84239715022496
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2005,"Rate",4.69615367585515,4.48410070633491,4.88850118213271
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2006,"Rate",4.7044079538752,4.48787274957545,4.90597113641056
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2007,"Rate",4.62736912294297,4.41444776046047,4.83172825303756
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2008,"Rate",4.63315593845435,4.39697277919286,4.84259102876928
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2009,"Rate",4.61147631400211,4.37433531011705,4.82583277435585
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2010,"Rate",4.59016999943707,4.35139068419758,4.8133559802219
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2011,"Rate",4.62796389891079,4.36978865963822,4.8633206258727
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2012,"Rate",4.63988622964882,4.36355002879416,4.89498507224614
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2013,"Rate",4.65608101664823,4.35665764271586,4.94018026219939
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2014,"Rate",4.5900472757221,4.26064295496997,4.90249070762017
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1980,"Rate",1.28882557754198,1.20552376307344,1.3728991081054
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1981,"Rate",1.25268390344656,1.17791495907336,1.33055255852668
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1982,"Rate",1.20305506351702,1.13736094032073,1.27369536019677
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1983,"Rate",1.19583672474192,1.13314736865654,1.26078846972286
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1984,"Rate",1.18467491541368,1.12590883937666,1.24756947807421
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1985,"Rate",1.18454873557411,1.12757685147751,1.24679242081736
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1986,"Rate",1.17182078571704,1.11430233035262,1.23125330018718
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1987,"Rate",1.16817656975953,1.11317326604745,1.22619356340553
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1988,"Rate",1.18372937179957,1.12844985010355,1.24201935436254
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1989,"Rate",1.17676616228508,1.12226370732851,1.23368121704486
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1990,"Rate",1.16821176642278,1.11351803478198,1.22539065910202
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1991,"Rate",1.16572737174336,1.1103444901048,1.22166933011923
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1992,"Rate",1.14676203268199,1.09216968072855,1.2027200603668
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1993,"Rate",1.16000145993001,1.10439129227652,1.22189622088956
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1994,"Rate",1.15667936322004,1.09889144692605,1.21981353887213
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1995,"Rate",1.15589249296132,1.09769125259431,1.21909030123107
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1996,"Rate",1.13614885781455,1.07628163983922,1.19854174082638
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1997,"Rate",1.1185217509965,1.05810339145919,1.17843899996953
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1998,"Rate",1.10432906862891,1.04649787216357,1.16304959603578
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1999,"Rate",1.10517050238374,1.05018930013152,1.15988345490293
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2000,"Rate",1.11484704633947,1.06176542589169,1.16854867499619
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2001,"Rate",1.15566977647505,1.10199632864455,1.21174895041808
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2002,"Rate",1.16406688684911,1.11306436973517,1.21792924621824
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2003,"Rate",1.18600414415164,1.1349252892323,1.2379321880753
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2004,"Rate",1.17488325116001,1.12468289457216,1.22705101014589
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2005,"Rate",1.19405421919259,1.14335448057144,1.24793764682246
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2006,"Rate",1.20973887385033,1.15706110764482,1.26627308198393
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2007,"Rate",1.1910868596306,1.13651578787435,1.24801137254435
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2008,"Rate",1.20341060648082,1.14692013004914,1.26172122380288
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2009,"Rate",1.22683905110182,1.16735028064178,1.2877793862326
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2010,"Rate",1.2146711497946,1.15647648317083,1.2749012151257
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2011,"Rate",1.24568125011944,1.18244607997511,1.30945320667475
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2012,"Rate",1.253040570222,1.18747542238751,1.32152475043136
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2013,"Rate",1.26643327577789,1.19441844391903,1.34198323687682
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2014,"Rate",1.23806962395067,1.16346969149467,1.31955014789636
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1980,"Rate",3.09914472247413,2.8960129632312,3.34087674848182
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1981,"Rate",3.02154665280105,2.84394800566656,3.26508341721425
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1982,"Rate",2.9227825589854,2.77147824002805,3.22834181947023
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1983,"Rate",2.88848288041894,2.75232126165089,3.21366988135686
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1984,"Rate",2.87577890137492,2.74555803418665,3.19511773451843
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1985,"Rate",2.89792892701738,2.77772065757844,3.17571268125273
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1986,"Rate",2.90136931645761,2.78023347193474,3.16072457846901
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1987,"Rate",2.89418905514691,2.78424681444657,3.12711096693412
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1988,"Rate",2.93995029470565,2.82707356797741,3.12029386847103
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1989,"Rate",2.93961709808316,2.83293205344609,3.08128823894332
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1990,"Rate",2.93111404165404,2.82814551163821,3.06822567374819
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1991,"Rate",2.9159210461404,2.8112382993375,3.04169955933987
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1992,"Rate",2.89318403421953,2.78589127958494,3.01834437146721
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1993,"Rate",2.92943444777205,2.81733099781878,3.05111529626848
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1994,"Rate",2.91489635031731,2.80078431937757,3.0394020209679
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1995,"Rate",2.91004811617911,2.79220669329215,3.03941258407025
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1996,"Rate",2.83282766785415,2.71854991852913,2.95885104472484
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1997,"Rate",2.76752592106381,2.65502932981434,2.8928802148918
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1998,"Rate",2.73474850305322,2.62105449234071,2.85444244530616
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1999,"Rate",2.73755346819032,2.62630714222716,2.84756472425936
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2000,"Rate",2.75869599786176,2.65180099020158,2.85923514343605
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2001,"Rate",2.81389690820359,2.70549196820146,2.9111691132549
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2002,"Rate",2.84034045107219,2.73099084469088,2.93761463659532
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2003,"Rate",2.85730042213424,2.75147072431658,2.95301406894304
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2004,"Rate",2.83113896890003,2.72302387148342,2.92425045092318
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2005,"Rate",2.86505681378275,2.75518621842406,2.96020852956725
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2006,"Rate",2.87915147641064,2.76479102512538,2.978906158277
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2007,"Rate",2.83403297526178,2.72218498655764,2.93480037934883
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2008,"Rate",2.84464194840491,2.72155200689616,2.94819911983331
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2009,"Rate",2.84770703511452,2.72653335845304,2.95454518545866
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2010,"Rate",2.8323115273861,2.70707568429656,2.94920200472452
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2011,"Rate",2.86735785813714,2.73144571299571,2.98746300622581
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2012,"Rate",2.87771577703801,2.73280736070274,3.00667566679594
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2013,"Rate",2.89319674865466,2.73576285471694,3.03505296128849
+1,"Deaths",102,"United States",NA,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2014,"Rate",2.84753150684325,2.68052718270827,3.00031374181088
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1980,"Rate",2.02760146947446,1.89726422891031,2.21451403125266
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1981,"Rate",2.08679965524101,1.96446723859473,2.23755058646
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1982,"Rate",2.16919395660218,2.05472462250148,2.30281692793585
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1983,"Rate",2.27347584451961,2.1618933252636,2.40477408092667
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1984,"Rate",2.46358133844106,2.34484971252494,2.59585785102993
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1985,"Rate",2.66550564221766,2.53646578891167,2.80748110645952
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1986,"Rate",2.87313973210939,2.72360285262779,3.05277036934783
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1987,"Rate",3.00054815842277,2.84886308942348,3.16061788748906
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1988,"Rate",3.185001966312,3.01538509908066,3.3688169301288
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1989,"Rate",3.27200867384007,3.09221817976538,3.47236077979155
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1990,"Rate",3.32646798634133,3.14278070419858,3.53268670555502
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1991,"Rate",3.50364182330788,3.30668998677816,3.72709596160628
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1992,"Rate",3.75738423449318,3.54242403887419,3.98368543170585
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1993,"Rate",4.0896614010355,3.85404995307371,4.34111219352554
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1994,"Rate",4.3877295424373,4.14092911986186,4.63998601425688
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1995,"Rate",4.70435664756868,4.43294785184649,4.97986854386644
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1996,"Rate",5.04093999720116,4.75785562788156,5.3179821544103
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1997,"Rate",5.52019512291718,5.20626535739238,5.82065628859663
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1998,"Rate",5.89940763342326,5.55495347987523,6.22230302521702
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",1999,"Rate",6.58500574267022,6.19259689151512,6.95115412717915
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",2000,"Rate",7.1659221980384,6.76839233943994,7.55447791775492
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",2001,"Rate",7.86880605663705,7.43645507396352,8.27437002047041
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",2002,"Rate",8.64607884373,8.17237831432631,9.10734634653774
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",2003,"Rate",9.39192877606817,8.89006429968034,9.87418177101621
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",2004,"Rate",10.0245453082729,9.53311067975665,10.5058441236793
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",2005,"Rate",10.8464256766596,10.3239856644885,11.4020915053972
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",2006,"Rate",11.6360305201815,11.0921000605737,12.2379968562222
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",2007,"Rate",12.0789843933038,11.5204527207122,12.682801237458
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",2008,"Rate",12.4460940609267,11.8676270821971,13.0590390469909
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",2009,"Rate",12.7347128998208,12.1319143666707,13.3709712902762
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",2010,"Rate",13.0084771407429,12.3787116288766,13.6585027948737
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",2011,"Rate",13.4401460640164,12.7987725262789,14.083474532015
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",2012,"Rate",13.6656037416926,12.9829613792352,14.3653840734204
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",2013,"Rate",13.9737645832125,13.2143824028361,14.746874296348
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",1,"Male",27,"Age-standardized",2014,"Rate",13.976715013401,12.8893205286938,14.8494871933587
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1980,"Rate",0.890183760386991,0.831070200065115,0.95405624229061
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1981,"Rate",0.899095838009083,0.843787403396352,0.956275455774181
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1982,"Rate",0.906974872546108,0.855807890425067,0.96338003017987
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1983,"Rate",0.934240151698077,0.88388683351716,0.985726853290015
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1984,"Rate",0.967325809550697,0.913347300128788,1.01615411564448
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1985,"Rate",1.0155737309687,0.95682606622894,1.06885200073173
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1986,"Rate",1.06218342788881,0.999335824562381,1.11846712339296
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1987,"Rate",1.09571166480627,1.03248644742154,1.1543688862689
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1988,"Rate",1.14843639561211,1.08198999352827,1.21287808005163
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1989,"Rate",1.16859865450879,1.0994922374567,1.23927268261744
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1990,"Rate",1.18052997426239,1.10995224853182,1.25742082961796
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1991,"Rate",1.22374266837199,1.14872672380383,1.30442103374698
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1992,"Rate",1.2646404370313,1.1862308185865,1.34851698510409
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1993,"Rate",1.37128969256435,1.28885753263918,1.46618737322677
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1994,"Rate",1.46613626825347,1.37556786856998,1.56380002226577
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1995,"Rate",1.57433906812856,1.47638204519295,1.67706088716902
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1996,"Rate",1.70760367286242,1.60468181604103,1.81204217065207
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1997,"Rate",1.85584041517356,1.7462725552592,1.96684669049515
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1998,"Rate",2.0456328860901,1.92692874522798,2.16472471885516
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",1999,"Rate",2.33851741897242,2.2096229021807,2.48411105018011
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",2000,"Rate",2.65426484121761,2.50469740568147,2.82029723350812
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",2001,"Rate",3.06459965525792,2.89512746986808,3.24735160730222
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",2002,"Rate",3.50716456949333,3.30951256920724,3.70882449081937
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",2003,"Rate",3.9399124970892,3.71789494449014,4.15918301801538
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",2004,"Rate",4.30581601038961,4.08426465377837,4.52984533410185
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",2005,"Rate",4.76764713521271,4.5270079277543,5.00276631438379
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",2006,"Rate",5.22701816890456,4.98064658864847,5.47469524484366
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",2007,"Rate",5.54579485056839,5.29578275175783,5.81508568830536
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",2008,"Rate",5.85792942902482,5.59278802536867,6.14423385985618
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",2009,"Rate",6.18177622809934,5.90355326453242,6.47250967505402
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",2010,"Rate",6.35377218812224,6.0684705232091,6.66448173007471
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",2011,"Rate",6.66174097217066,6.34840596965966,6.98033764999111
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",2012,"Rate",6.81922856592334,6.47768799456774,7.17075446900253
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",2013,"Rate",6.96575639397174,6.57485096125892,7.33769505496004
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",2,"Female",27,"Age-standardized",2014,"Rate",6.82886362035693,6.37235050760397,7.24277165017074
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1980,"Rate",1.44434496621926,1.37289630428844,1.5479491618033
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1981,"Rate",1.47771935209736,1.40925405591059,1.56682543149194
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1982,"Rate",1.5226476445049,1.45793708198779,1.59879183898247
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1983,"Rate",1.58738261199981,1.52297020996719,1.65840207250777
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1984,"Rate",1.69745164436657,1.63068340390631,1.76775950912262
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1985,"Rate",1.82067623923484,1.74883007304584,1.89771320017384
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1986,"Rate",1.94606224593828,1.8647928783524,2.04211543279991
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1987,"Rate",2.02573018127543,1.94219823495604,2.11067298814963
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1988,"Rate",2.14316087348405,2.05331177702027,2.24128178522141
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1989,"Rate",2.19582087689768,2.10198601648341,2.29755384030786
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1990,"Rate",2.22875956351863,2.12691392503583,2.33684035175725
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1991,"Rate",2.33903792177111,2.22909255814124,2.45358462988911
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1992,"Rate",2.485811160519,2.37059996242871,2.61136885433342
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1993,"Rate",2.70450145583103,2.58150562170287,2.83611819979066
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1994,"Rate",2.90005173749017,2.77484080602917,3.03436541841837
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1995,"Rate",3.11166896003519,2.97739935072535,3.25961763249194
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1996,"Rate",3.34670767077791,3.20960088039808,3.49252648435786
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1997,"Rate",3.66149846553383,3.50912175990551,3.81608889957174
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1998,"Rate",3.94567277376773,3.78069138890468,4.11843730398923
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",1999,"Rate",4.43502154652273,4.24925067826025,4.63113925842744
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",2000,"Rate",4.88439470967097,4.68707321452975,5.10149735879779
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",2001,"Rate",5.44162038468461,5.21257181812538,5.67216232634244
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",2002,"Rate",6.04969523739655,5.80735095531761,6.29789182017203
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",2003,"Rate",6.6383792981857,6.39184628659753,6.90335226100641
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",2004,"Rate",7.13857244324271,6.87040891582098,7.42651106202744
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",2005,"Rate",7.77992439872161,7.48973797185005,8.07568361767041
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",2006,"Rate",8.40492053511065,8.10054909386604,8.71869332998277
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",2007,"Rate",8.78587800048729,8.46869595671548,9.11166204174967
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",2008,"Rate",9.12563991113662,8.78653427919134,9.46374022565176
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",2009,"Rate",9.43206589897867,9.08338187024219,9.77328710551749
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",2010,"Rate",9.65597505017562,9.3072303615688,10.0183343948561
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",2011,"Rate",10.0249126411422,9.66939522768417,10.388913743426
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",2012,"Rate",10.2151375667924,9.83647583310536,10.6175242340071
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",2013,"Rate",10.4418234166153,9.95325305812424,10.8905940411029
+1,"Deaths",102,"United States",NA,561,"Drug use disorders",3,"Both",27,"Age-standardized",2014,"Rate",10.3745776773155,9.70051729248751,10.8573775788368
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1980,"Rate",24.1401254111694,23.025207793855,25.2919899944789
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1981,"Rate",23.8808303385034,22.897945244308,24.9413290736074
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1982,"Rate",23.4832217365262,22.5967219565835,24.4200913297684
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1983,"Rate",23.3657070656488,22.5267884698663,24.2550261946521
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1984,"Rate",23.5723172791214,22.7762624664724,24.3728824038523
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1985,"Rate",23.9957194479695,23.2487190275256,24.7487610952934
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1986,"Rate",24.3751266348342,23.6351255488977,25.136181096595
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1987,"Rate",24.1243490172513,23.4367236679039,24.8538144019959
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1988,"Rate",24.1721691268017,23.4736023380551,24.8691021360505
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1989,"Rate",23.8919104029188,23.2079852551209,24.5944982780737
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1990,"Rate",23.6712618299585,22.9627325934325,24.3827915687976
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1991,"Rate",23.4147864671859,22.7059649289576,24.1366242507609
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1992,"Rate",23.0521414858511,22.3721472769795,23.7770099041639
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1993,"Rate",23.2752867303559,22.5897816917051,24.0006488681815
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1994,"Rate",23.085534994435,22.3782415509302,23.8167435713033
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1995,"Rate",22.9270063567768,22.2005603397155,23.6691049447201
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1996,"Rate",22.2715561712741,21.5220208422439,22.9991600189338
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1997,"Rate",21.6662828083096,20.9256200888042,22.4113416215682
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1998,"Rate",21.1979099867958,20.4728318380632,21.9165900887973
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",1999,"Rate",20.7940108989319,20.0757048415357,21.4821726996707
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",2000,"Rate",20.7738312026188,20.0800562452225,21.4542362121439
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",2001,"Rate",21.0273070970287,20.356292849923,21.6697747574188
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",2002,"Rate",21.1930045129,20.5254174976711,21.8126212618849
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",2003,"Rate",21.1521825594072,20.5165316264283,21.7652095383297
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",2004,"Rate",20.8828653669986,20.275783079536,21.504741383586
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",2005,"Rate",21.2412743175716,20.6164746994917,21.9041606039321
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",2006,"Rate",21.4753555017779,20.8461620631501,22.1564452167965
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",2007,"Rate",21.4522882500968,20.839047039582,22.1217719320498
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",2008,"Rate",21.5873737933455,20.9451829299279,22.2663139682712
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",2009,"Rate",21.6145038153352,20.9570477993704,22.2927282975614
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",2010,"Rate",21.5153594746873,20.8202890330824,22.2204828998622
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",2011,"Rate",21.8300617335484,21.0983057054819,22.5848718733547
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",2012,"Rate",21.9640687847197,21.1500172508257,22.7708277660551
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",2013,"Rate",22.0401921276163,21.131731087817,22.9450001477789
+1,"Deaths",102,"United States",NA,718,"Self-harm",1,"Male",27,"Age-standardized",2014,"Rate",22.0605788230639,21.0515560259327,23.0257178989363
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1980,"Rate",6.7340430213026,6.38349499919077,7.08318357620503
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1981,"Rate",6.64354018601875,6.31119500293474,6.98296312360675
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1982,"Rate",6.43661064255621,6.13368364241242,6.76204846407389
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1983,"Rate",6.3851095568925,6.08638491787165,6.6831079346597
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1984,"Rate",6.32293871917857,6.05338692575081,6.60459888123473
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1985,"Rate",6.26246976336481,6.01329959202122,6.53054931839257
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1986,"Rate",6.23112411293156,5.99334777853961,6.48131926657778
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1987,"Rate",6.13912331623678,5.91668419469071,6.37850786143567
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1988,"Rate",6.05763633910917,5.844887605255,6.28447140232706
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1989,"Rate",5.85791309352918,5.66346495296137,6.08070180637993
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1990,"Rate",5.69098335486834,5.49632649300815,5.89390465190211
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1991,"Rate",5.60521728619704,5.41640133093803,5.81503556582124
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1992,"Rate",5.43692598873713,5.2475607621181,5.63898194270181
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1993,"Rate",5.44853329018284,5.2494486804602,5.65996893851679
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1994,"Rate",5.35357136534262,5.15793903882998,5.56439273975969
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1995,"Rate",5.30127883361105,5.10796909745526,5.51429116072008
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1996,"Rate",5.20502052932278,4.99509920269553,5.42309482381435
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1997,"Rate",5.16274425347141,4.94790792682306,5.36713179686042
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1998,"Rate",5.08538521431979,4.87458804890694,5.28416590737412
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",1999,"Rate",5.08077579862765,4.87988968557383,5.27636342907038
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",2000,"Rate",5.1365775877688,4.94828309338532,5.32715434151503
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",2001,"Rate",5.32958245504143,5.14860204868533,5.52701304401504
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",2002,"Rate",5.46106437378162,5.28044262278004,5.65118964221957
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",2003,"Rate",5.5771911059476,5.39484726473428,5.77281147229045
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",2004,"Rate",5.61927638865664,5.43935551634994,5.81722676626533
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",2005,"Rate",5.75934769062421,5.57188777580634,5.95432717697593
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",2006,"Rate",5.879337546586,5.68438188557389,6.07571023664371
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",2007,"Rate",5.9089772016833,5.70672589173703,6.10558918435658
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",2008,"Rate",5.99633160898825,5.78509884028432,6.21053850660125
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",2009,"Rate",6.15070088467776,5.92875466790097,6.38462208110024
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",2010,"Rate",6.10965253106164,5.89175145357248,6.34797886126257
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",2011,"Rate",6.26867075784658,6.0106080901358,6.53082087957839
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",2012,"Rate",6.30595712555194,6.04251525835961,6.5890398952641
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",2013,"Rate",6.3887958819295,6.0997003047003,6.68422278765339
+1,"Deaths",102,"United States",NA,718,"Self-harm",2,"Female",27,"Age-standardized",2014,"Rate",6.29786939048104,6.00271040352463,6.63090050254973
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1980,"Rate",14.743454391273,14.1986869357765,15.3113644948298
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1981,"Rate",14.5633763672065,14.0783500556627,15.0976141735754
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1982,"Rate",14.2568886189635,13.8277895709976,14.7292918188773
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1983,"Rate",14.1624862706683,13.7540271675993,14.6096842822351
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1984,"Rate",14.2216285206844,13.857121754169,14.6217948425905
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1985,"Rate",14.3838445198698,14.0238728181612,14.7671982048205
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1986,"Rate",14.5503643842019,14.1972996496083,14.9419896302649
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1987,"Rate",14.3798258942835,14.0454176830709,14.7405462314571
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1988,"Rate",14.3704208691508,14.024673299461,14.7215376428626
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1989,"Rate",14.1484785373558,13.8186337978456,14.4873157834524
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1990,"Rate",13.9740179358489,13.6457720728526,14.3128228390152
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1991,"Rate",13.8257281228404,13.4915337730757,14.1975247755692
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1992,"Rate",13.5893487651849,13.2640388981474,13.9462232839092
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1993,"Rate",13.716982912418,13.394471830483,14.0556302659169
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1994,"Rate",13.5976312349935,13.2621943858388,13.9531204137216
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1995,"Rate",13.5123093687032,13.1684065393302,13.8853327645059
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1996,"Rate",13.1670344144925,12.8254817673176,13.5563074996928
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1997,"Rate",12.8754598700076,12.5355090199085,13.2565626662976
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1998,"Rate",12.6244986138389,12.2803723511076,12.997042313702
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",1999,"Rate",12.4441470921752,12.1189477737864,12.7964655536851
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",2000,"Rate",12.4834462478998,12.1593841329153,12.823692164259
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",2001,"Rate",12.7268679990676,12.3910690177022,13.0546685950395
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",2002,"Rate",12.8917571006567,12.5608505167603,13.2080079369618
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",2003,"Rate",12.9511580068847,12.6197019898908,13.2563373324589
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",2004,"Rate",12.862501107656,12.5500979737899,13.1726350550397
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",2005,"Rate",13.1238983179978,12.8093754408808,13.4242119087785
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",2006,"Rate",13.3155952338919,13.0059646307492,13.6452101046212
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",2007,"Rate",13.3311475471975,13.0252367999137,13.6669052656559
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",2008,"Rate",13.4492561818838,13.1283144483635,13.7834835566347
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",2009,"Rate",13.5480759090075,13.2075471975376,13.8958695598021
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",2010,"Rate",13.4861164403937,13.1396192550456,13.8347531710658
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",2011,"Rate",13.7257067524237,13.3474752700983,14.0903610737622
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",2012,"Rate",13.8140821307247,13.3883410165848,14.2161449470133
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",2013,"Rate",13.8948896563917,13.4241722949485,14.3243429086432
+1,"Deaths",102,"United States",NA,718,"Self-harm",3,"Both",27,"Age-standardized",2014,"Rate",13.859168690634,13.3484245178172,14.3512279220947
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1980,"Rate",16.3973177587833,15.5914603257477,17.1104713504874
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1981,"Rate",15.8607021798393,15.1753127361845,16.4825674072525
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1982,"Rate",15.0583320043075,14.4983776739711,15.6305860861237
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1983,"Rate",14.4021137575796,13.8939666242079,14.9540318204696
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1984,"Rate",14.1243385609907,13.6535902776587,14.6277494271121
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1985,"Rate",14.173817110709,13.725667584645,14.6370348876646
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1986,"Rate",14.3913708616382,13.9521046225444,14.8653882055873
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1987,"Rate",14.125686249693,13.7244610982566,14.5806023000845
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1988,"Rate",14.3448764719977,13.9284030895173,14.7896889955517
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1989,"Rate",14.4399163907431,14.0108556225007,14.8735640162928
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1990,"Rate",14.6018783014184,14.1907490211195,15.0541959443311
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1991,"Rate",14.6210794791341,14.2253449147992,15.0677156756429
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1992,"Rate",14.3174658884121,13.9256364891313,14.73329027755
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1993,"Rate",14.3284188070112,13.9340901024859,14.7354140361164
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1994,"Rate",13.8929840421416,13.5159252548326,14.3005070650331
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1995,"Rate",13.2448160411155,12.862071210033,13.6558032338513
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1996,"Rate",12.3425993694676,11.9820994154644,12.7324281006896
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1997,"Rate",11.549404342934,11.1749605865959,11.949375492009
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1998,"Rate",10.8593716054178,10.5022171591858,11.2174078961401
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1999,"Rate",10.4637393130924,10.115004674649,10.8331462022856
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2000,"Rate",10.3601703659295,10.0209839910006,10.7090880080092
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2001,"Rate",10.4413918696242,10.0972095025053,10.7722598878397
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2002,"Rate",10.4612181229668,10.1254180565524,10.7806659201593
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2003,"Rate",10.4176307338536,10.1031984462414,10.7248142448741
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2004,"Rate",10.2262942811127,9.9257852949501,10.5290954162805
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2005,"Rate",10.3937937574746,10.0733579579928,10.6997048930797
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2006,"Rate",10.4171984591079,10.0841044003263,10.7209126925087
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2007,"Rate",10.1585148879629,9.82556826981164,10.4715727069387
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2008,"Rate",9.86119888166453,9.53054515342123,10.1725051278812
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2009,"Rate",9.48751053384147,9.16954164269241,9.8079867628447
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2010,"Rate",9.13886208074332,8.82399137804133,9.48273178424601
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2011,"Rate",9.07167285250347,8.74223664422643,9.43315796546361
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2012,"Rate",8.97173607628475,8.63069789571249,9.34893527411925
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2013,"Rate",8.83517388873829,8.45841383200519,9.23852329871422
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2014,"Rate",8.80270174443442,8.39203354665139,9.24749842880517
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1980,"Rate",4.72593480892921,4.50552700416151,4.94708839771618
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1981,"Rate",4.57504379854746,4.38989252123656,4.7796267415682
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1982,"Rate",4.40792011905713,4.22946493289455,4.60445653434982
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1983,"Rate",4.34385152592686,4.18410744932467,4.52436913566613
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1984,"Rate",4.30903785878086,4.15825170564108,4.47933530060421
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1985,"Rate",4.32132485066085,4.17325175355047,4.48426642985419
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1986,"Rate",4.34055445040964,4.20472116833863,4.4935305762445
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1987,"Rate",4.35143493834015,4.220563648941,4.49554504214526
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1988,"Rate",4.38107380846813,4.24640926432237,4.5246811999018
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1989,"Rate",4.32388596433511,4.18798184612473,4.46462541763463
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1990,"Rate",4.26341051006058,4.12772247078449,4.39707596169163
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1991,"Rate",4.25704931163047,4.12440396451953,4.38906962506841
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1992,"Rate",4.11460198803259,3.9845589717826,4.24359306867527
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1993,"Rate",4.11487423355836,3.9857554806513,4.23952075247972
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1994,"Rate",3.96898113407279,3.84131911871333,4.09378893305569
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1995,"Rate",3.85226257716783,3.7272050791967,3.97639295238983
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1996,"Rate",3.66449463308066,3.54091187436317,3.79058473095456
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1997,"Rate",3.51658640718079,3.39481802413799,3.64189552786819
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1998,"Rate",3.36682258260306,3.24659944439718,3.49185545052065
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1999,"Rate",3.30416871765269,3.18389252237685,3.43164826520197
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2000,"Rate",3.2496539296737,3.13367597044406,3.36711300404051
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2001,"Rate",3.25373945067435,3.1437845689131,3.36723706505952
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2002,"Rate",3.20898351780668,3.10248211671957,3.31813347331225
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2003,"Rate",3.14643890461912,3.04565076401586,3.24907575698696
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2004,"Rate",3.04941909890975,2.9536820033939,3.14552216175255
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2005,"Rate",3.03043876753347,2.934731740235,3.12503457724284
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2006,"Rate",3.00621171610525,2.90935766914485,3.10462059684897
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2007,"Rate",2.93586686461172,2.83911106114392,3.03195031373272
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2008,"Rate",2.87801052133817,2.78165363753473,2.97475704713846
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2009,"Rate",2.84709919886291,2.75009447506611,2.94428089340239
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2010,"Rate",2.73763550030192,2.63712245767009,2.83444572849355
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2011,"Rate",2.7294446000328,2.62925708877503,2.82822552809565
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2012,"Rate",2.6975016539025,2.58821634560275,2.80671601326631
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2013,"Rate",2.69043790443463,2.57599831448302,2.80287364189205
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2014,"Rate",2.67593489345924,2.55002640059756,2.80059880797898
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1980,"Rate",10.4168854044132,9.94753739494234,10.7820666087644
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1981,"Rate",10.0804997603585,9.70621393549142,10.4088462555475
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1982,"Rate",9.60711797526543,9.32390229480997,9.91959600769906
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1983,"Rate",9.25843163921841,8.99054860445118,9.54356363761696
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1984,"Rate",9.11087139759056,8.8667948484314,9.38875529805573
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1985,"Rate",9.1510775911988,8.9319587292718,9.40896980141334
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1986,"Rate",9.27829774727726,9.05351960456294,9.52160037490143
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1987,"Rate",9.16125798807436,8.95726854007614,9.39862384737095
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1988,"Rate",9.29569451028076,9.08208506580166,9.53803927470707
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1989,"Rate",9.32509498545074,9.1194986383395,9.56262775378384
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1990,"Rate",9.3855098587208,9.18325428772833,9.62498973061695
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1991,"Rate",9.40271651342484,9.20630158949641,9.64062100569559
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1992,"Rate",9.19137487519804,8.98737150675329,9.42165869123961
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1993,"Rate",9.20485976783932,8.99501728894878,9.43260538740786
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1994,"Rate",8.91937218434269,8.71276979611047,9.14070207727693
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1995,"Rate",8.54231272317525,8.33924612193634,8.75991684389897
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1996,"Rate",7.99981481228446,7.8028028054284,8.20770752693558
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1997,"Rate",7.53064859571822,7.33399253716545,7.74657593911927
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1998,"Rate",7.11285870710839,6.92020578518389,7.31628979367372
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1999,"Rate",6.88513252242466,6.70000128671932,7.09443405101657
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2000,"Rate",6.81006458637422,6.63753790934502,6.99641076002737
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2001,"Rate",6.8561879661334,6.67508477206531,7.02767879473256
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2002,"Rate",6.84312721496465,6.66703525947242,7.01328250551091
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2003,"Rate",6.79018468628336,6.61516941579204,6.95687315685244
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2004,"Rate",6.64745458462722,6.48296628876876,6.80733813284154
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2005,"Rate",6.72389007863648,6.55043983386105,6.88531890054105
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2006,"Rate",6.72468148363134,6.54338434746597,6.8916754223196
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2007,"Rate",6.55927542894385,6.3800398626865,6.72174765048019
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2008,"Rate",6.37987397077007,6.19982286783984,6.5430451914051
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2009,"Rate",6.17553487266816,6.00310177734738,6.33490019555066
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2010,"Rate",5.94663771783745,5.78920974960883,6.11988184446017
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2011,"Rate",5.9080381614963,5.73845163940425,6.08489702249249
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2012,"Rate",5.84121588143771,5.65368613513745,6.03516688776028
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2013,"Rate",5.76813622949002,5.57713730030396,5.97774238726034
+1,"Deaths",102,"United States",NA,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2014,"Rate",5.74431543673853,5.52831096450616,5.99077870397828

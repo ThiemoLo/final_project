@@ -21,12 +21,12 @@ my_ui <- fluidPage(
       ),
       selectInput("type_slider",
         label = "Mortality Type",
-        choices = c("Alcohol use disorders", "Drugs use disorders", "Interpersonal violence", "Self-harm"),
+        choices = c("Alcohol use disorders", "Drug use disorders", "Interpersonal violence", "Self-harm"),
           selected = "Alcohol use disorders"
       )
     ),
     mainPanel(
-      h3("Display Panel"),
+      h3("Findings Panel"),
       tabsetPanel(
         type = "tabs",
         tabPanel(

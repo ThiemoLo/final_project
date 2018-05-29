@@ -6,10 +6,12 @@ library(ggplot2)
 
 
 my_server <- function(input, output) {
+  
+### QUESTION 1
   output$question_one_plot_a <- renderPlot({
   ## Pulling in correct csv file based on state selected
-    state_data <- read.csv(paste0("./data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", input$state_select, "_Y2018M03D13.CSV"))
-    
+    fixed_state <- gsub(" ", "_", input$state_select)
+    state_data <- read.csv(paste0("./data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"))
     ## Find birth year and generational bucket
     state_data <- state_data %>%
       mutate(birth_year = year_id - age_id) %>%
@@ -73,18 +75,21 @@ my_server <- function(input, output) {
       mutate(generation =  gsub("_.*","", state_combined_long$data_type))
     
   # Question 1 graph a
-    a <- ggplot(data = data_plot) +
+    a <- ggplot(data = state_combined_long) +
       geom_point(mapping = aes(x = cause_name, y = mortality_percentage, color = generation)) +
       facet_grid(. ~ generation) +
       labs(
-        title = "Average Mortality Rates By Generation Between 1980 and 2014",
+        title = paste0("Average Mortality Rates By Generation Between 1980 and 2014 for ", input$state_select),
         x = "Mortality Type",
         y = "Mortality Percentage (%)"
-      )
+      ) +
+      theme(axis.text.x = element_text(angle = 90, hjust = 1))
     a
   })
   
   output$question_one_table_a <- renderTable({
+    fixed_state <- gsub(" ", "_", input$state_select)
+    state_data <- read.csv(paste0("./data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"))
     ## For specific year and to pull from for inline analysis
     state_data_year <- state_data %>%
       filter(year_id == input$year_slider)
@@ -142,8 +147,22 @@ my_server <- function(input, output) {
   })
   
   output$question_one_plot_b <- renderPlot({
+    ## Pulling in correct csv file based on state selected
+    fixed_state <- gsub(" ", "_", input$state_select)
+    state_data <- read.csv(paste0("./data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"))
+    ## Find birth year and generational bucket
+    state_data <- state_data %>%
+      mutate(birth_year = year_id - age_id) %>%
+      mutate(generation =
+               case_when(
+                 birth_year %in% generation_silent ~ "Silent",
+                 birth_year %in% generation_baby_boomer ~ "Baby Boomer",
+                 birth_year %in% generation_x ~ "X",
+                 birth_year %in% generation_y ~ "Y",
+                 birth_year %in% generation_silent ~ "Z"
+               ))
     ## Year over year changes for specific type
-    type <- "Alcohol use disorders"
+    type <- input$type_slider
     
     silent_change <- state_data %>%
       filter(generation == "Silent") %>%
@@ -187,11 +206,6 @@ my_server <- function(input, output) {
       )
     
   # Question 1 graph b
-    data_plot <- data %>%
-      filter(
-        parent.location == input$state_select,
-        median.gross.rent < input$rent_slider, year == 2016
-      )
     b <- ggplot(silent_change, aes(x = year_id, y = x_lower_bound)) +
       geom_line() +
       geom_line(data = baby_change, color = "red") +
@@ -199,12 +213,31 @@ my_server <- function(input, output) {
       geom_line(data = y_change, color = "green") +
       geom_line(data = z_change, color = "purple") +
       labs(
-        title = paste0("Trend in ", input$type_slider, "For Different Generations"),
+        title = paste0("Trend in ", input$type_slider, " for Different Generations for ", input$state_select),
         x = "Year",
         y = "Mortality Rate Percentage (Lower Bound)"
       )
     b
   })
+
+
+### END OF QUESTION 1
+
+### QUESTION 2
+
+
+### END OF QUESTION 2
+
+### QUESTION 3
+
+
+### END OF QUESTION 3
+
+### QUESTION 4
+
+
+### END OF QUESTION 4
+
 }
 
 shinyServer(my_server)

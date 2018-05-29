@@ -1,0 +1,841 @@
+"measure_id","measure_name","location_id","location_name","FIPS","cause_id","cause_name","sex_id","sex","age_id","age_name","year_id","metric","mx","lower","upper"
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1980,"Rate",13.0969641471358,10.9590945368381,15.9448795242544
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1981,"Rate",15.9017149944856,13.352457909003,19.3394638243699
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1982,"Rate",12.4322988862388,10.4433953074383,15.3790979180672
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1983,"Rate",12.7595152262182,10.8035774432147,15.445752123191
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1984,"Rate",16.5737016633288,14.0957850380561,19.7643874059512
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1985,"Rate",14.8263077748797,12.727263310026,17.7552064240812
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1986,"Rate",14.8454451647539,12.8668691946712,17.5380557228273
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1987,"Rate",12.5876346488054,10.7416744803969,14.7557912910665
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1988,"Rate",15.4300993395911,13.5723752477118,17.6785138236946
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1989,"Rate",14.8090702747597,13.0272369284841,17.0730576070257
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1990,"Rate",10.0013992254568,8.61643567802795,11.5120203059072
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1991,"Rate",10.9841063739296,9.57146816151188,12.5724512391174
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1992,"Rate",12.3598254017524,10.7600775693826,14.2475499814967
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1993,"Rate",11.6708431376243,10.0664509102695,13.4596938857593
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1994,"Rate",11.6034912290277,10.0325357159631,13.3134452225356
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1995,"Rate",12.5142579118462,10.9578547286318,14.3198240209788
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1996,"Rate",11.6393489702589,10.0885024362912,13.3311340751736
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1997,"Rate",8.67248944768543,7.50037190953964,10.1921127619013
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1998,"Rate",13.4426821079426,11.5553107214848,15.5265656849953
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1999,"Rate",15.6655152528693,13.6425950188604,17.9390203646136
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2000,"Rate",22.4129387037108,19.8248991688905,24.9171645367045
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2001,"Rate",18.8092643118965,16.2509367897856,21.644674670505
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2002,"Rate",16.8403811831231,14.7270213618603,19.1108576237432
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2003,"Rate",17.7120852118681,15.3115465198939,20.2233946007577
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2004,"Rate",17.4861520206249,15.0874033231309,20.0941882105267
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2005,"Rate",11.3694558464606,9.5427989690954,13.3028121157824
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2006,"Rate",13.7504437529249,11.4404741902641,16.0440984259468
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2007,"Rate",11.8120074944737,9.85747390180237,13.7907070701106
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2008,"Rate",11.8364317136626,9.89616721929289,13.8128059149285
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2009,"Rate",9.78261962561718,8.15480169268545,11.336384752708
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2010,"Rate",11.9197637655509,9.96325075409201,14.0249422867611
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2011,"Rate",12.4249419818971,10.2918802426133,14.6467114434511
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2012,"Rate",9.37400863506995,7.57715645507216,11.1117295127207
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2013,"Rate",10.696085836669,8.65410831059879,12.6951830691237
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2014,"Rate",9.52230274020078,7.71922106477674,11.4597994894623
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1980,"Rate",3.47076917279079,2.85228054810228,4.15409379896338
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1981,"Rate",3.82567347203238,3.16302595212515,4.56725428222376
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1982,"Rate",3.69187755975516,3.0480959125368,4.43642641005841
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1983,"Rate",3.76792116864933,3.12657238810914,4.4740260658822
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1984,"Rate",3.1476511712194,2.60550183535954,3.76276229104575
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1985,"Rate",3.29392132037114,2.77467537863467,3.92375004476967
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1986,"Rate",3.18751113500308,2.61027997888552,3.8177155440704
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1987,"Rate",2.63065882008116,2.15397688388936,3.21702024712521
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1988,"Rate",3.17275134135494,2.60812349828023,3.85696040010873
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1989,"Rate",3.02738588958332,2.44359313462861,3.64792738507504
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1990,"Rate",3.10112739724743,2.57546336785475,3.69035015816605
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1991,"Rate",2.86064936310522,2.34677975857983,3.44383155496243
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1992,"Rate",3.04340540382487,2.52739707387914,3.61301242720075
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1993,"Rate",2.5987710229367,2.14219140658816,3.14054905283752
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1994,"Rate",2.79014264637665,2.32603106030536,3.30100360559139
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1995,"Rate",2.29447310745416,1.87893296384407,2.75283677550642
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1996,"Rate",2.78660172077577,2.25379092560443,3.35034355887401
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1997,"Rate",2.50903129682527,2.00204131193463,3.06153346518504
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1998,"Rate",2.97140070392616,2.38499362238801,3.55119385438932
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1999,"Rate",3.17464255257205,2.56944054537196,3.8028560083552
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2000,"Rate",3.98416668219374,3.18727751809206,4.83888907337783
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2001,"Rate",3.63631902831342,2.86961200224658,4.41697031244993
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2002,"Rate",3.41170051037341,2.692130515107,4.19882155865712
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2003,"Rate",3.20833553939646,2.4861207523335,4.00721833233522
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2004,"Rate",3.20189781494679,2.45766756181133,4.01899971015191
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2005,"Rate",3.18891793504777,2.48312263056869,4.00461826804885
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2006,"Rate",3.05026749302938,2.35545563868064,3.8648527988814
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2007,"Rate",2.7510328533242,2.0972118033775,3.48507953323516
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2008,"Rate",2.4383756544088,1.85401129834889,3.10532516717225
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2009,"Rate",2.4899795769258,1.90323607305827,3.1502785574778
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2010,"Rate",3.01667211562239,2.27300636606708,3.86468604048983
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2011,"Rate",3.17299962141265,2.37351439417372,4.07017329014821
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2012,"Rate",2.70547708489176,2.02947908285522,3.41089809423886
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2013,"Rate",2.37076746440596,1.76268854112648,3.06955555864241
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2014,"Rate",2.18099728612205,1.59154551011448,2.83399083571851
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1980,"Rate",7.69687718472973,6.68892267903987,8.98357595253983
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1981,"Rate",9.12639887661592,7.95079606238723,10.5925060022794
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1982,"Rate",7.52593300709991,6.55341368638249,8.65527888774348
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1983,"Rate",7.71611355180562,6.78213712095116,8.95092502264345
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1984,"Rate",9.06902018342217,7.91048817540351,10.5183969824975
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1985,"Rate",8.38364302614489,7.40059478844151,9.68298676339289
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1986,"Rate",8.3404206524016,7.41487666387542,9.61986722888045
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1987,"Rate",7.03451557873197,6.19590571304605,8.0826644718213
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1988,"Rate",8.59518886586582,7.71493989817529,9.60745481954575
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1989,"Rate",8.23230616099309,7.35230260064449,9.22106349099951
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1990,"Rate",6.15303273722718,5.44580837212523,6.94172150426763
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1991,"Rate",6.46368151396008,5.75915935070976,7.2708854821091
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1992,"Rate",7.18733390148325,6.4000278167671,8.08421993524664
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1993,"Rate",6.6400737665071,5.90424092957056,7.54490367524063
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1994,"Rate",6.72943241615057,6.00017934395671,7.54283586449568
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1995,"Rate",6.88018838573032,6.09956812347084,7.74409019922386
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1996,"Rate",6.7701138840444,6.01782611417338,7.58708285988408
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1997,"Rate",5.29975958482168,4.66664285829523,6.03280174462964
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1998,"Rate",7.68970555510238,6.75075580456726,8.69641097248455
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1999,"Rate",8.82000337361486,7.81978034178317,9.95523825611531
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2000,"Rate",12.3831924285043,11.1532209614136,13.6188234145254
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2001,"Rate",10.5461041244828,9.22473134009896,11.9424886353666
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2002,"Rate",9.59401093610273,8.50132177093584,10.7486247889433
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2003,"Rate",9.86248735880223,8.68940235057096,11.1376990392003
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2004,"Rate",9.78827936911737,8.58682772483142,11.0646276693508
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2005,"Rate",6.98208585898465,5.97932748305714,7.94304981932338
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2006,"Rate",8.03080246723167,6.92060888809852,9.19990555802743
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2007,"Rate",6.99712632795908,5.99470063348268,7.98998723658554
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2008,"Rate",6.86385964309951,5.89667392975441,7.85836359804679
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2009,"Rate",5.94899984571269,5.14637260018601,6.74105979039275
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2010,"Rate",7.2206555121061,6.17617440644634,8.35786878473216
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2011,"Rate",7.56656868681765,6.48006441065099,8.69474313497107
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2012,"Rate",5.86315198721556,4.9132316172028,6.76844256341359
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2013,"Rate",6.31983353141093,5.31409547176488,7.37537139947563
+1,"Deaths",531,"District of Columbia",11,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2014,"Rate",5.67089791571464,4.75769194276531,6.62099033522974
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1980,"Rate",13.0969641471358,10.9590945368381,15.9448795242544
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1981,"Rate",15.9017149944856,13.352457909003,19.3394638243699
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1982,"Rate",12.4322988862388,10.4433953074383,15.3790979180672
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1983,"Rate",12.7595152262182,10.8035774432147,15.445752123191
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1984,"Rate",16.5737016633288,14.0957850380561,19.7643874059512
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1985,"Rate",14.8263077748797,12.727263310026,17.7552064240812
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1986,"Rate",14.8454451647539,12.8668691946712,17.5380557228273
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1987,"Rate",12.5876346488054,10.7416744803969,14.7557912910665
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1988,"Rate",15.4300993395911,13.5723752477118,17.6785138236946
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1989,"Rate",14.8090702747597,13.0272369284841,17.0730576070257
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1990,"Rate",10.0013992254568,8.61643567802795,11.5120203059072
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1991,"Rate",10.9841063739296,9.57146816151188,12.5724512391174
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1992,"Rate",12.3598254017524,10.7600775693826,14.2475499814967
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1993,"Rate",11.6708431376243,10.0664509102695,13.4596938857593
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1994,"Rate",11.6034912290277,10.0325357159631,13.3134452225356
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1995,"Rate",12.5142579118462,10.9578547286318,14.3198240209788
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1996,"Rate",11.6393489702589,10.0885024362912,13.3311340751736
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1997,"Rate",8.67248944768543,7.50037190953964,10.1921127619013
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1998,"Rate",13.4426821079426,11.5553107214848,15.5265656849953
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",1999,"Rate",15.6655152528693,13.6425950188604,17.9390203646136
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2000,"Rate",22.4129387037108,19.8248991688905,24.9171645367045
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2001,"Rate",18.8092643118965,16.2509367897856,21.644674670505
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2002,"Rate",16.8403811831231,14.7270213618603,19.1108576237432
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2003,"Rate",17.7120852118681,15.3115465198939,20.2233946007577
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2004,"Rate",17.4861520206249,15.0874033231309,20.0941882105267
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2005,"Rate",11.3694558464606,9.5427989690954,13.3028121157824
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2006,"Rate",13.7504437529249,11.4404741902641,16.0440984259468
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2007,"Rate",11.8120074944737,9.85747390180237,13.7907070701106
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2008,"Rate",11.8364317136626,9.89616721929289,13.8128059149285
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2009,"Rate",9.78261962561718,8.15480169268545,11.336384752708
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2010,"Rate",11.9197637655509,9.96325075409201,14.0249422867611
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2011,"Rate",12.4249419818971,10.2918802426133,14.6467114434511
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2012,"Rate",9.37400863506995,7.57715645507216,11.1117295127207
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2013,"Rate",10.696085836669,8.65410831059879,12.6951830691237
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",1,"Male",27,"Age-standardized",2014,"Rate",9.52230274020078,7.71922106477674,11.4597994894623
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1980,"Rate",3.47076917279079,2.85228054810228,4.15409379896338
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1981,"Rate",3.82567347203238,3.16302595212515,4.56725428222376
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1982,"Rate",3.69187755975516,3.0480959125368,4.43642641005841
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1983,"Rate",3.76792116864933,3.12657238810914,4.4740260658822
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1984,"Rate",3.1476511712194,2.60550183535954,3.76276229104575
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1985,"Rate",3.29392132037114,2.77467537863467,3.92375004476967
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1986,"Rate",3.18751113500308,2.61027997888552,3.8177155440704
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1987,"Rate",2.63065882008116,2.15397688388936,3.21702024712521
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1988,"Rate",3.17275134135494,2.60812349828023,3.85696040010873
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1989,"Rate",3.02738588958332,2.44359313462861,3.64792738507504
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1990,"Rate",3.10112739724743,2.57546336785475,3.69035015816605
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1991,"Rate",2.86064936310522,2.34677975857983,3.44383155496243
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1992,"Rate",3.04340540382487,2.52739707387914,3.61301242720075
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1993,"Rate",2.5987710229367,2.14219140658816,3.14054905283752
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1994,"Rate",2.79014264637665,2.32603106030536,3.30100360559139
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1995,"Rate",2.29447310745416,1.87893296384407,2.75283677550642
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1996,"Rate",2.78660172077577,2.25379092560443,3.35034355887401
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1997,"Rate",2.50903129682527,2.00204131193463,3.06153346518504
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1998,"Rate",2.97140070392616,2.38499362238801,3.55119385438932
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",1999,"Rate",3.17464255257205,2.56944054537196,3.8028560083552
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2000,"Rate",3.98416668219374,3.18727751809206,4.83888907337783
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2001,"Rate",3.63631902831342,2.86961200224658,4.41697031244993
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2002,"Rate",3.41170051037341,2.692130515107,4.19882155865712
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2003,"Rate",3.20833553939646,2.4861207523335,4.00721833233522
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2004,"Rate",3.20189781494679,2.45766756181133,4.01899971015191
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2005,"Rate",3.18891793504777,2.48312263056869,4.00461826804885
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2006,"Rate",3.05026749302938,2.35545563868064,3.8648527988814
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2007,"Rate",2.7510328533242,2.0972118033775,3.48507953323516
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2008,"Rate",2.4383756544088,1.85401129834889,3.10532516717225
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2009,"Rate",2.4899795769258,1.90323607305827,3.1502785574778
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2010,"Rate",3.01667211562239,2.27300636606708,3.86468604048983
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2011,"Rate",3.17299962141265,2.37351439417372,4.07017329014821
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2012,"Rate",2.70547708489176,2.02947908285522,3.41089809423886
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2013,"Rate",2.37076746440596,1.76268854112648,3.06955555864241
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",2,"Female",27,"Age-standardized",2014,"Rate",2.18099728612205,1.59154551011448,2.83399083571851
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1980,"Rate",7.69687718472973,6.68892267903987,8.98357595253983
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1981,"Rate",9.12639887661592,7.95079606238723,10.5925060022794
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1982,"Rate",7.52593300709991,6.55341368638249,8.65527888774348
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1983,"Rate",7.71611355180562,6.78213712095116,8.95092502264345
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1984,"Rate",9.06902018342217,7.91048817540351,10.5183969824975
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1985,"Rate",8.38364302614489,7.40059478844151,9.68298676339289
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1986,"Rate",8.3404206524016,7.41487666387542,9.61986722888045
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1987,"Rate",7.03451557873197,6.19590571304605,8.0826644718213
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1988,"Rate",8.59518886586582,7.71493989817529,9.60745481954575
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1989,"Rate",8.23230616099309,7.35230260064449,9.22106349099951
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1990,"Rate",6.15303273722718,5.44580837212523,6.94172150426763
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1991,"Rate",6.46368151396008,5.75915935070976,7.2708854821091
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1992,"Rate",7.18733390148325,6.4000278167671,8.08421993524664
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1993,"Rate",6.6400737665071,5.90424092957056,7.54490367524063
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1994,"Rate",6.72943241615057,6.00017934395671,7.54283586449568
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1995,"Rate",6.88018838573032,6.09956812347084,7.74409019922386
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1996,"Rate",6.7701138840444,6.01782611417338,7.58708285988408
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1997,"Rate",5.29975958482168,4.66664285829523,6.03280174462964
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1998,"Rate",7.68970555510238,6.75075580456726,8.69641097248455
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",1999,"Rate",8.82000337361486,7.81978034178317,9.95523825611531
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2000,"Rate",12.3831924285043,11.1532209614136,13.6188234145254
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2001,"Rate",10.5461041244828,9.22473134009896,11.9424886353666
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2002,"Rate",9.59401093610273,8.50132177093584,10.7486247889433
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2003,"Rate",9.86248735880223,8.68940235057096,11.1376990392003
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2004,"Rate",9.78827936911737,8.58682772483142,11.0646276693508
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2005,"Rate",6.98208585898465,5.97932748305714,7.94304981932338
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2006,"Rate",8.03080246723167,6.92060888809852,9.19990555802743
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2007,"Rate",6.99712632795908,5.99470063348268,7.98998723658554
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2008,"Rate",6.86385964309951,5.89667392975441,7.85836359804679
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2009,"Rate",5.94899984571269,5.14637260018601,6.74105979039275
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2010,"Rate",7.2206555121061,6.17617440644634,8.35786878473216
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2011,"Rate",7.56656868681765,6.48006441065099,8.69474313497107
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2012,"Rate",5.86315198721556,4.9132316172028,6.76844256341359
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2013,"Rate",6.31983353141093,5.31409547176488,7.37537139947563
+1,"Deaths",891,"District of Columbia",11001,560,"Alcohol use disorders",3,"Both",27,"Age-standardized",2014,"Rate",5.67089791571464,4.75769194276531,6.62099033522974
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1980,"Rate",7.46756921943895,5.08924802641001,10.3843294380737
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1981,"Rate",11.1338268187657,8.13095891708245,15.0397391054435
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1982,"Rate",8.3406743470873,5.81109461870304,11.8123052066576
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1983,"Rate",8.85347008762177,6.17432382827671,12.3522124617223
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1984,"Rate",9.58546737431408,6.62026558321787,13.0676914525559
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1985,"Rate",10.7277336817472,7.84919776133111,14.4253467446021
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1986,"Rate",9.32622539834957,6.52366215741169,12.5769079055721
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1987,"Rate",6.10796419100087,4.01427629561975,8.55450312216525
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1988,"Rate",6.36805751891189,4.311106272679,8.97193924641752
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1989,"Rate",9.91313035962474,7.07388272914322,13.3149493011811
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1990,"Rate",4.77339942203211,2.91812055559665,7.10481843857862
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1991,"Rate",5.76084015862243,3.60862965292289,8.4380632605354
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1992,"Rate",5.07579106457021,3.28469926672963,7.31622544257487
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1993,"Rate",5.18854442606701,3.44705138532559,7.69546426650782
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1994,"Rate",5.07624377002452,3.10125722134102,7.32401608819977
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1995,"Rate",5.55987591379306,3.67552025985971,8.04403921944416
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1996,"Rate",6.13150986048889,3.97893939466845,8.53780616341144
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1997,"Rate",7.15820503988097,4.93749251552956,9.93460242707978
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1998,"Rate",17.2193166225194,13.3871660403029,21.628509034886
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",1999,"Rate",16.9842718332692,12.9463332810107,21.4268497689329
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",2000,"Rate",19.7336237520961,15.4314782125165,24.8247685326061
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",2001,"Rate",27.2755922247802,22.3291966696688,32.8356492400552
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",2002,"Rate",17.3282800920901,13.160819968226,22.1261262392798
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",2003,"Rate",26.2292569799362,21.8215523038177,31.1419275976631
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",2004,"Rate",23.8349601937729,19.182839875625,28.7200909272534
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",2005,"Rate",18.530197612546,14.6267520521543,22.8905006975536
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",2006,"Rate",24.3916584461347,20.2429385099451,29.1648025001988
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",2007,"Rate",17.6631714313531,13.8354469372089,21.9706002504164
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",2008,"Rate",16.6971795362156,13.0175124195165,20.9533887599922
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",2009,"Rate",12.3494058839559,9.13157870614081,16.2901563661727
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",2010,"Rate",20.0399233963536,15.6620328143772,24.4211430027177
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",2011,"Rate",17.6800307470412,13.8653076331773,22.008448189736
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",2012,"Rate",17.4941114423679,13.9676613709449,21.5521817214428
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",2013,"Rate",20.2707698900428,16.6317869160954,24.4769944292724
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",1,"Male",27,"Age-standardized",2014,"Rate",18.1503767954466,14.5116223762844,22.2895775071192
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1980,"Rate",2.59372445180489,1.63617683116892,3.901634181228
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1981,"Rate",2.68450333567883,1.69109057856128,3.97592893121209
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1982,"Rate",2.32488677308215,1.38654323925833,3.5651938626384
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1983,"Rate",2.44101122308034,1.4846650548223,3.59398264310759
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1984,"Rate",2.40087357927764,1.58070974201677,3.64886579816241
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1985,"Rate",2.40135806095738,1.51953155189745,3.55615712352032
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1986,"Rate",2.46025910322933,1.53952100332786,3.53442514113975
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1987,"Rate",2.35186606644204,1.48233917622499,3.57215280460878
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1988,"Rate",2.81435552729533,1.84292457594739,4.06216230222135
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1989,"Rate",2.8947220189553,1.88968453926208,4.10813640300308
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1990,"Rate",2.44274101957287,1.5450901168338,3.46424664902334
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1991,"Rate",2.50098820773914,1.64132479620903,3.55291304056959
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1992,"Rate",2.15555700724461,1.39708004733342,3.15002612532217
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1993,"Rate",2.28454714356516,1.4532055196205,3.26142897470708
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1994,"Rate",2.27823189171253,1.48257153213701,3.33478073495263
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1995,"Rate",2.23051043987509,1.4400334271231,3.12463902328199
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1996,"Rate",3.04485757533844,2.12675476311876,4.25110058275965
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1997,"Rate",3.83087683659226,2.73975284410499,5.0814986341818
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1998,"Rate",3.92238679712482,2.71061563669891,5.40886682079885
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",1999,"Rate",3.97721858442369,2.67530370234783,5.38650335958207
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",2000,"Rate",6.5153652031495,4.82217559882224,8.4385604592039
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",2001,"Rate",7.70042092734404,5.68645177339188,9.80178373704453
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",2002,"Rate",6.82081031951776,5.20848934162056,8.58666907446003
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",2003,"Rate",8.30322901265862,6.47864718780701,10.2944113806203
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",2004,"Rate",7.96340952324937,6.06512850190316,10.1662435219586
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",2005,"Rate",7.59177972899794,5.92491614331721,9.55068160335772
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",2006,"Rate",10.2150427528221,8.28046976144456,12.5708552138356
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",2007,"Rate",7.43565784785315,5.60926468030824,9.4384638503151
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",2008,"Rate",6.59595607187145,4.94186487390911,8.47675493422172
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",2009,"Rate",6.15868219459494,4.56184231006493,8.02957675153947
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",2010,"Rate",8.10974444322667,6.3140646232469,10.1472476591868
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",2011,"Rate",8.56544965637589,6.56186626419892,10.6889664407799
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",2012,"Rate",7.74798427925362,5.90461910943006,9.78511132593447
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",2013,"Rate",7.92475510840443,6.15884218336889,9.92875208664393
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",2,"Female",27,"Age-standardized",2014,"Rate",7.69099981467307,6.04199298454087,9.60374129879541
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1980,"Rate",4.77092582383727,3.54321010319589,6.2761677153045
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1981,"Rate",6.4468919954978,4.95761101325667,8.22547405142437
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1982,"Rate",5.00779188468894,3.70006653172062,6.63801011069039
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1983,"Rate",5.30563355817029,3.94163166027589,7.06561927676535
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1984,"Rate",5.62745766555661,4.14311992477055,7.31400862181763
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1985,"Rate",6.13971664207267,4.70653865022263,7.76864589856057
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1986,"Rate",5.55216735899395,4.21059895820106,7.06486083772246
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1987,"Rate",4.04802639583771,2.95550554236891,5.32536134552096
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1988,"Rate",4.42151333843176,3.30617056646512,5.90202077918388
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1989,"Rate",6.05262525006946,4.59216254044917,7.74859408369024
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1990,"Rate",3.49999513428623,2.49968117710166,4.63468051663549
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1991,"Rate",3.98687153787668,2.95804822188363,5.27885728584036
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1992,"Rate",3.49762607803747,2.54324883978865,4.7890384550509
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1993,"Rate",3.62190615777467,2.65348678458515,4.91605547780704
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1994,"Rate",3.57659010656316,2.57814429663504,4.72529117375659
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1995,"Rate",3.78293529695019,2.81277392433617,5.03040709221846
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1996,"Rate",4.49295745519571,3.37000867435067,5.76922718254478
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1997,"Rate",5.40698981173767,4.14512766036308,6.85615432251088
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1998,"Rate",10.1414310706781,8.17953966829041,12.2871929792254
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",1999,"Rate",10.0845824262656,8.10822471934159,12.2244284045141
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",2000,"Rate",12.7687053932915,10.5553013793834,15.3712804137167
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",2001,"Rate",16.944379286766,14.523911654727,19.794169786623
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",2002,"Rate",11.8097114333619,9.72610238587981,14.1057894728398
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",2003,"Rate",16.7979161443989,14.5271495944825,19.2370983046111
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",2004,"Rate",15.513479939949,13.1181190246055,18.1216971278676
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",2005,"Rate",12.8041466511806,10.7423686613757,15.1033205284623
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",2006,"Rate",16.9850510206535,14.7569743645334,19.5295782784153
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",2007,"Rate",12.3380284072852,10.2600282507033,14.6403143588378
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",2008,"Rate",11.4569307532651,9.48253441596891,13.7473794888438
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",2009,"Rate",9.14421080047595,7.40614136604489,11.212951944012
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",2010,"Rate",13.868826914112,11.4874733900113,16.0543006109535
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",2011,"Rate",12.9693439468975,10.793674190647,15.3752780631379
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",2012,"Rate",12.4511323248498,10.4405017947626,14.6483972503303
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",2013,"Rate",13.8970513069295,11.8203893935379,16.1944362047495
+1,"Deaths",531,"District of Columbia",11,561,"Drug use disorders",3,"Both",27,"Age-standardized",2014,"Rate",12.7543515017554,10.6790879408854,15.0147650263735
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1980,"Rate",7.46756921943895,5.08924802641001,10.3843294380737
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1981,"Rate",11.1338268187657,8.13095891708245,15.0397391054435
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1982,"Rate",8.3406743470873,5.81109461870304,11.8123052066576
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1983,"Rate",8.85347008762177,6.17432382827671,12.3522124617223
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1984,"Rate",9.58546737431408,6.62026558321787,13.0676914525559
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1985,"Rate",10.7277336817472,7.84919776133111,14.4253467446021
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1986,"Rate",9.32622539834957,6.52366215741169,12.5769079055721
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1987,"Rate",6.10796419100087,4.01427629561975,8.55450312216525
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1988,"Rate",6.36805751891189,4.311106272679,8.97193924641752
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1989,"Rate",9.91313035962474,7.07388272914322,13.3149493011811
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1990,"Rate",4.77339942203211,2.91812055559665,7.10481843857862
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1991,"Rate",5.76084015862243,3.60862965292289,8.4380632605354
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1992,"Rate",5.07579106457021,3.28469926672963,7.31622544257487
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1993,"Rate",5.18854442606701,3.44705138532559,7.69546426650782
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1994,"Rate",5.07624377002452,3.10125722134102,7.32401608819977
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1995,"Rate",5.55987591379306,3.67552025985971,8.04403921944416
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1996,"Rate",6.13150986048889,3.97893939466845,8.53780616341144
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1997,"Rate",7.15820503988097,4.93749251552956,9.93460242707978
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1998,"Rate",17.2193166225194,13.3871660403029,21.628509034886
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",1999,"Rate",16.9842718332692,12.9463332810107,21.4268497689329
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",2000,"Rate",19.7336237520961,15.4314782125165,24.8247685326061
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",2001,"Rate",27.2755922247802,22.3291966696688,32.8356492400552
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",2002,"Rate",17.3282800920901,13.160819968226,22.1261262392798
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",2003,"Rate",26.2292569799362,21.8215523038177,31.1419275976631
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",2004,"Rate",23.8349601937729,19.182839875625,28.7200909272534
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",2005,"Rate",18.530197612546,14.6267520521543,22.8905006975536
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",2006,"Rate",24.3916584461347,20.2429385099451,29.1648025001988
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",2007,"Rate",17.6631714313531,13.8354469372089,21.9706002504164
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",2008,"Rate",16.6971795362156,13.0175124195165,20.9533887599922
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",2009,"Rate",12.3494058839559,9.13157870614081,16.2901563661727
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",2010,"Rate",20.0399233963536,15.6620328143772,24.4211430027177
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",2011,"Rate",17.6800307470412,13.8653076331773,22.008448189736
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",2012,"Rate",17.4941114423679,13.9676613709449,21.5521817214428
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",2013,"Rate",20.2707698900428,16.6317869160954,24.4769944292724
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",1,"Male",27,"Age-standardized",2014,"Rate",18.1503767954466,14.5116223762844,22.2895775071192
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1980,"Rate",2.59372445180489,1.63617683116892,3.901634181228
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1981,"Rate",2.68450333567883,1.69109057856128,3.97592893121209
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1982,"Rate",2.32488677308215,1.38654323925833,3.5651938626384
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1983,"Rate",2.44101122308034,1.4846650548223,3.59398264310759
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1984,"Rate",2.40087357927764,1.58070974201677,3.64886579816241
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1985,"Rate",2.40135806095738,1.51953155189745,3.55615712352032
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1986,"Rate",2.46025910322933,1.53952100332786,3.53442514113975
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1987,"Rate",2.35186606644204,1.48233917622499,3.57215280460878
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1988,"Rate",2.81435552729533,1.84292457594739,4.06216230222135
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1989,"Rate",2.8947220189553,1.88968453926208,4.10813640300308
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1990,"Rate",2.44274101957287,1.5450901168338,3.46424664902334
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1991,"Rate",2.50098820773914,1.64132479620903,3.55291304056959
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1992,"Rate",2.15555700724461,1.39708004733342,3.15002612532217
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1993,"Rate",2.28454714356516,1.4532055196205,3.26142897470708
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1994,"Rate",2.27823189171253,1.48257153213701,3.33478073495263
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1995,"Rate",2.23051043987509,1.4400334271231,3.12463902328199
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1996,"Rate",3.04485757533844,2.12675476311876,4.25110058275965
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1997,"Rate",3.83087683659226,2.73975284410499,5.0814986341818
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1998,"Rate",3.92238679712482,2.71061563669891,5.40886682079885
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",1999,"Rate",3.97721858442369,2.67530370234783,5.38650335958207
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",2000,"Rate",6.5153652031495,4.82217559882224,8.4385604592039
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",2001,"Rate",7.70042092734404,5.68645177339188,9.80178373704453
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",2002,"Rate",6.82081031951776,5.20848934162056,8.58666907446003
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",2003,"Rate",8.30322901265862,6.47864718780701,10.2944113806203
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",2004,"Rate",7.96340952324937,6.06512850190316,10.1662435219586
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",2005,"Rate",7.59177972899794,5.92491614331721,9.55068160335772
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",2006,"Rate",10.2150427528221,8.28046976144456,12.5708552138356
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",2007,"Rate",7.43565784785315,5.60926468030824,9.4384638503151
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",2008,"Rate",6.59595607187145,4.94186487390911,8.47675493422172
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",2009,"Rate",6.15868219459494,4.56184231006493,8.02957675153947
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",2010,"Rate",8.10974444322667,6.3140646232469,10.1472476591868
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",2011,"Rate",8.56544965637589,6.56186626419892,10.6889664407799
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",2012,"Rate",7.74798427925362,5.90461910943006,9.78511132593447
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",2013,"Rate",7.92475510840443,6.15884218336889,9.92875208664393
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",2,"Female",27,"Age-standardized",2014,"Rate",7.69099981467307,6.04199298454087,9.60374129879541
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1980,"Rate",4.77092582383727,3.54321010319589,6.2761677153045
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1981,"Rate",6.4468919954978,4.95761101325667,8.22547405142437
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1982,"Rate",5.00779188468894,3.70006653172062,6.63801011069039
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1983,"Rate",5.30563355817029,3.94163166027589,7.06561927676535
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1984,"Rate",5.62745766555661,4.14311992477055,7.31400862181763
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1985,"Rate",6.13971664207267,4.70653865022263,7.76864589856057
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1986,"Rate",5.55216735899395,4.21059895820106,7.06486083772246
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1987,"Rate",4.04802639583771,2.95550554236891,5.32536134552096
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1988,"Rate",4.42151333843176,3.30617056646512,5.90202077918388
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1989,"Rate",6.05262525006946,4.59216254044917,7.74859408369024
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1990,"Rate",3.49999513428623,2.49968117710166,4.63468051663549
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1991,"Rate",3.98687153787668,2.95804822188363,5.27885728584036
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1992,"Rate",3.49762607803747,2.54324883978865,4.7890384550509
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1993,"Rate",3.62190615777467,2.65348678458515,4.91605547780704
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1994,"Rate",3.57659010656316,2.57814429663504,4.72529117375659
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1995,"Rate",3.78293529695019,2.81277392433617,5.03040709221846
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1996,"Rate",4.49295745519571,3.37000867435067,5.76922718254478
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1997,"Rate",5.40698981173767,4.14512766036308,6.85615432251088
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1998,"Rate",10.1414310706781,8.17953966829041,12.2871929792254
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",1999,"Rate",10.0845824262656,8.10822471934159,12.2244284045141
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",2000,"Rate",12.7687053932915,10.5553013793834,15.3712804137167
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",2001,"Rate",16.944379286766,14.523911654727,19.794169786623
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",2002,"Rate",11.8097114333619,9.72610238587981,14.1057894728398
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",2003,"Rate",16.7979161443989,14.5271495944825,19.2370983046111
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",2004,"Rate",15.513479939949,13.1181190246055,18.1216971278676
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",2005,"Rate",12.8041466511806,10.7423686613757,15.1033205284623
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",2006,"Rate",16.9850510206535,14.7569743645334,19.5295782784153
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",2007,"Rate",12.3380284072852,10.2600282507033,14.6403143588378
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",2008,"Rate",11.4569307532651,9.48253441596891,13.7473794888438
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",2009,"Rate",9.14421080047595,7.40614136604489,11.212951944012
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",2010,"Rate",13.868826914112,11.4874733900113,16.0543006109535
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",2011,"Rate",12.9693439468975,10.793674190647,15.3752780631379
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",2012,"Rate",12.4511323248498,10.4405017947626,14.6483972503303
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",2013,"Rate",13.8970513069295,11.8203893935379,16.1944362047495
+1,"Deaths",891,"District of Columbia",11001,561,"Drug use disorders",3,"Both",27,"Age-standardized",2014,"Rate",12.7543515017554,10.6790879408854,15.0147650263735
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1980,"Rate",28.5918191017719,25.0483734544697,32.3792750396695
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1981,"Rate",26.0938938320349,22.757453088268,29.8313167840038
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1982,"Rate",28.4164498145144,25.0548723026405,32.0264881135225
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1983,"Rate",25.4221276801265,22.4072584455443,28.5134881306322
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1984,"Rate",26.2743731802374,23.1119080070545,29.5865637689524
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1985,"Rate",21.8987564051997,19.2699306920158,24.7354871024108
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1986,"Rate",24.3801092776247,21.4813003339814,27.6452578275884
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1987,"Rate",23.0705066698476,20.429925312838,26.0744715372708
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1988,"Rate",22.078569189451,19.4626208347809,24.9195498703111
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1989,"Rate",22.8181560339143,19.8548014223794,25.655168937984
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1990,"Rate",19.4364709598953,17.1175666635887,21.9250719866548
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1991,"Rate",18.8222405642636,16.4543591354134,21.2717042259267
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1992,"Rate",18.7593785520939,16.3894025625203,21.1023365071988
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1993,"Rate",19.3221103498231,16.965399063048,21.8616413740842
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1994,"Rate",16.8517402753988,14.7655119216508,19.135921461402
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1995,"Rate",17.1418403316763,15.1199244129221,19.2874785739852
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1996,"Rate",16.5019069934514,14.3475242929911,18.6936226834603
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1997,"Rate",16.9080481392802,14.8331291622431,19.1335299817475
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1998,"Rate",16.6719837200275,14.5804455720085,18.9797389777361
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",1999,"Rate",14.7798058848274,12.9440960087994,16.8049215469563
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",2000,"Rate",14.4221114759738,12.4462233247082,16.4393236835809
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",2001,"Rate",16.1123850923469,13.915687517013,18.4357198968331
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",2002,"Rate",15.1457178907845,13.1574445843866,17.1591043023843
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",2003,"Rate",15.946160304153,13.9655248180319,18.2604114454906
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",2004,"Rate",15.2127042965301,13.1744339398413,17.4222730469783
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",2005,"Rate",16.1943096965557,14.0589917915358,18.440990661312
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",2006,"Rate",15.9496464509776,13.8759906061462,17.9461667912308
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",2007,"Rate",15.4842935596935,13.4320693487892,17.6898552016455
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",2008,"Rate",16.4973437092733,14.3389867479404,18.5944637048443
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",2009,"Rate",15.2404203848162,13.3718216782958,17.378130576825
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",2010,"Rate",15.078832903909,13.1558376956453,17.1277024028209
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",2011,"Rate",13.8285797751354,12.0090522641908,15.595694340632
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",2012,"Rate",14.6644993898698,12.8880997518909,16.4674598710671
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",2013,"Rate",14.3859610323194,12.5692626349931,16.3314239212278
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",1,"Male",27,"Age-standardized",2014,"Rate",14.5422477371459,12.5980507243612,16.4291865524566
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1980,"Rate",7.1395595447787,6.0211459511533,8.25438797392377
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1981,"Rate",7.16590628179656,6.07242897231943,8.21638051055976
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1982,"Rate",6.59079500691302,5.63043824908826,7.56382409859199
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1983,"Rate",6.91081937931216,5.95872770080153,7.93062894406801
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1984,"Rate",7.53460326966301,6.50004623848499,8.60521680534067
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1985,"Rate",6.08671430889677,5.18941937323996,7.00737969685912
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1986,"Rate",6.31703893004457,5.39925444849538,7.30369771778645
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1987,"Rate",5.37179300605168,4.5413083755446,6.23113628084046
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1988,"Rate",5.4677457370369,4.6473550716818,6.35783909225937
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1989,"Rate",4.98516158760824,4.23423316483066,5.80146894158615
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1990,"Rate",4.66042168530376,3.89809636623098,5.37694401584496
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1991,"Rate",4.7491457442812,3.99197778714219,5.55136108411825
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1992,"Rate",4.12335963200829,3.48788997248578,4.79398785230909
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1993,"Rate",4.61735436922908,3.89371666900198,5.4011384115394
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1994,"Rate",3.84197235485547,3.21672716085885,4.47299893944298
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1995,"Rate",3.66506884965679,3.07399113271339,4.30218060964206
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1996,"Rate",3.91027985652794,3.25768202914962,4.59072628137412
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1997,"Rate",3.97536428556423,3.32487147802257,4.65893001241856
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1998,"Rate",4.03288449925554,3.385193194811,4.6800490450413
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",1999,"Rate",3.45649777181998,2.91242808833003,4.01720949518945
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",2000,"Rate",3.65414331254135,3.05246399834959,4.25010336853933
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",2001,"Rate",3.79292290169983,3.14680459507283,4.47570197552081
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",2002,"Rate",3.97154926928314,3.36281743607193,4.57530930386091
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",2003,"Rate",3.84783448794237,3.25978973918006,4.43649020335002
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",2004,"Rate",3.99081121999848,3.33773249186537,4.60427591574423
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",2005,"Rate",4.45450871953842,3.74156685132184,5.15140673288131
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",2006,"Rate",4.02432116352985,3.43803406145047,4.66042261495398
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",2007,"Rate",4.30936673014455,3.61097855105092,4.9455378757407
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",2008,"Rate",4.20779003580999,3.58302089628728,4.81363591628215
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",2009,"Rate",3.90767199409975,3.33174237366217,4.53513486997088
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",2010,"Rate",4.08296473681931,3.47625951804284,4.64259664196333
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",2011,"Rate",4.46558278625696,3.82409978108639,5.08602232581311
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",2012,"Rate",3.93324021102931,3.36778757844196,4.50737337331819
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",2013,"Rate",4.11525998798143,3.53581547995104,4.7005963527557
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",2,"Female",27,"Age-standardized",2014,"Rate",4.06220519865941,3.42351844282024,4.70866261107225
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1980,"Rate",16.9762670324459,15.2263047266646,18.9084904155536
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1981,"Rate",15.7562711289721,14.1419399620964,17.4398207811414
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1982,"Rate",16.4882301277499,14.8259860512008,18.2318122802036
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1983,"Rate",15.2689930211565,13.7455699424828,16.966012505121
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1984,"Rate",16.014892109584,14.3881438983326,17.6038719027438
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1985,"Rate",13.2306859384897,11.898498983302,14.6023440263426
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1986,"Rate",14.4650432329251,12.9935134497174,16.0922188893383
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1987,"Rate",13.2506410774748,11.8953053438514,14.7081876171652
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1988,"Rate",12.7125095606416,11.4206551755859,14.0958402680756
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1989,"Rate",12.7108397920315,11.2845888266825,14.0667480084428
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1990,"Rate",11.0018014613451,9.86825974643313,12.2081532412254
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1991,"Rate",10.7934407387856,9.63292686209241,11.9424759979123
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1992,"Rate",10.42116781628,9.26995792503232,11.5458501535499
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1993,"Rate",10.9345877760684,9.76573190871543,12.1721463455639
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1994,"Rate",9.46806793184756,8.47998719394512,10.5036800162701
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1995,"Rate",9.53459812046439,8.54639621433984,10.5349955441617
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1996,"Rate",9.38246882904092,8.2839358771025,10.4732895320325
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1997,"Rate",9.76275615294146,8.69488304887433,10.9066691069003
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1998,"Rate",9.71893312462753,8.65069791423479,10.8232084697326
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",1999,"Rate",8.56163370887291,7.64126480317608,9.60359969047772
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",2000,"Rate",8.54869930997389,7.58104354388993,9.59105635890764
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",2001,"Rate",9.42595840785072,8.26426259040091,10.6424615606904
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",2002,"Rate",9.04855537271034,8.05709379393156,10.1130056745859
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",2003,"Rate",9.37517445743485,8.3785893122739,10.4918081462493
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",2004,"Rate",9.15601020542399,8.18590491097716,10.3097358231434
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",2005,"Rate",9.8798028727334,8.76243778458325,11.0270873356937
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",2006,"Rate",9.58394040996765,8.51323717716223,10.6234456855547
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",2007,"Rate",9.51252715132845,8.4580459756603,10.6145042282362
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",2008,"Rate",9.93866643636068,8.85386316580066,10.9861573584955
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",2009,"Rate",9.22903185570251,8.26891867497249,10.2920149537098
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",2010,"Rate",9.25758370131362,8.31916846578706,10.2730749985352
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",2011,"Rate",8.87221150829618,7.88189848829743,9.75667826794251
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",2012,"Rate",8.99332589482638,8.03159438994035,9.91355187377974
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",2013,"Rate",8.95397997119845,8.00724412737704,9.94670619145912
+1,"Deaths",531,"District of Columbia",11,718,"Self-harm",3,"Both",27,"Age-standardized",2014,"Rate",8.99706008219103,8.01556769007902,10.000345302103
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1980,"Rate",28.5918191017719,25.0483734544697,32.3792750396695
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1981,"Rate",26.0938938320349,22.757453088268,29.8313167840038
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1982,"Rate",28.4164498145144,25.0548723026405,32.0264881135225
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1983,"Rate",25.4221276801265,22.4072584455443,28.5134881306322
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1984,"Rate",26.2743731802374,23.1119080070545,29.5865637689524
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1985,"Rate",21.8987564051997,19.2699306920158,24.7354871024108
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1986,"Rate",24.3801092776247,21.4813003339814,27.6452578275884
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1987,"Rate",23.0705066698476,20.429925312838,26.0744715372708
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1988,"Rate",22.078569189451,19.4626208347809,24.9195498703111
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1989,"Rate",22.8181560339143,19.8548014223794,25.655168937984
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1990,"Rate",19.4364709598953,17.1175666635887,21.9250719866549
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1991,"Rate",18.8222405642636,16.4543591354134,21.2717042259267
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1992,"Rate",18.7593785520939,16.3894025625203,21.1023365071988
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1993,"Rate",19.3221103498231,16.965399063048,21.8616413740842
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1994,"Rate",16.8517402753988,14.7655119216508,19.135921461402
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1995,"Rate",17.1418403316763,15.1199244129221,19.2874785739852
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1996,"Rate",16.5019069934514,14.3475242929911,18.6936226834603
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1997,"Rate",16.9080481392802,14.8331291622431,19.1335299817475
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1998,"Rate",16.6719837200275,14.5804455720085,18.9797389777361
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",1999,"Rate",14.7798058848274,12.9440960087994,16.8049215469563
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",2000,"Rate",14.4221114759738,12.4462233247082,16.4393236835809
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",2001,"Rate",16.1123850923469,13.915687517013,18.4357198968331
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",2002,"Rate",15.1457178907845,13.1574445843866,17.1591043023843
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",2003,"Rate",15.946160304153,13.9655248180319,18.2604114454906
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",2004,"Rate",15.2127042965301,13.1744339398413,17.4222730469783
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",2005,"Rate",16.1943096965557,14.0589917915358,18.440990661312
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",2006,"Rate",15.9496464509776,13.8759906061462,17.9461667912308
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",2007,"Rate",15.4842935596935,13.4320693487892,17.6898552016455
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",2008,"Rate",16.4973437092733,14.3389867479404,18.5944637048443
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",2009,"Rate",15.2404203848162,13.3718216782958,17.378130576825
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",2010,"Rate",15.078832903909,13.1558376956453,17.1277024028209
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",2011,"Rate",13.8285797751354,12.0090522641908,15.595694340632
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",2012,"Rate",14.6644993898698,12.8880997518909,16.4674598710671
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",2013,"Rate",14.3859610323194,12.5692626349931,16.3314239212278
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",1,"Male",27,"Age-standardized",2014,"Rate",14.5422477371459,12.5980507243612,16.4291865524566
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1980,"Rate",7.1395595447787,6.0211459511533,8.25438797392377
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1981,"Rate",7.16590628179656,6.07242897231943,8.21638051055976
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1982,"Rate",6.59079500691302,5.63043824908826,7.56382409859199
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1983,"Rate",6.91081937931216,5.95872770080153,7.93062894406801
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1984,"Rate",7.53460326966301,6.50004623848499,8.60521680534067
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1985,"Rate",6.08671430889677,5.18941937323996,7.00737969685912
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1986,"Rate",6.31703893004457,5.39925444849538,7.30369771778645
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1987,"Rate",5.37179300605168,4.5413083755446,6.23113628084046
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1988,"Rate",5.4677457370369,4.6473550716818,6.35783909225937
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1989,"Rate",4.98516158760824,4.23423316483066,5.80146894158615
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1990,"Rate",4.66042168530376,3.89809636623098,5.37694401584496
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1991,"Rate",4.7491457442812,3.99197778714219,5.55136108411825
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1992,"Rate",4.12335963200829,3.48788997248578,4.79398785230909
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1993,"Rate",4.61735436922908,3.89371666900198,5.4011384115394
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1994,"Rate",3.84197235485547,3.21672716085885,4.47299893944298
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1995,"Rate",3.66506884965679,3.07399113271339,4.30218060964206
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1996,"Rate",3.91027985652794,3.25768202914962,4.59072628137412
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1997,"Rate",3.97536428556423,3.32487147802257,4.65893001241856
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1998,"Rate",4.03288449925554,3.385193194811,4.6800490450413
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",1999,"Rate",3.45649777181998,2.91242808833003,4.01720949518945
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",2000,"Rate",3.65414331254135,3.05246399834959,4.25010336853933
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",2001,"Rate",3.79292290169983,3.14680459507283,4.47570197552081
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",2002,"Rate",3.97154926928314,3.36281743607193,4.57530930386091
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",2003,"Rate",3.84783448794237,3.25978973918006,4.43649020335002
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",2004,"Rate",3.99081121999848,3.33773249186537,4.60427591574423
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",2005,"Rate",4.45450871953842,3.74156685132184,5.15140673288131
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",2006,"Rate",4.02432116352985,3.43803406145047,4.66042261495398
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",2007,"Rate",4.30936673014455,3.61097855105092,4.9455378757407
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",2008,"Rate",4.20779003580999,3.58302089628728,4.81363591628215
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",2009,"Rate",3.90767199409975,3.33174237366217,4.53513486997088
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",2010,"Rate",4.08296473681931,3.47625951804284,4.64259664196333
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",2011,"Rate",4.46558278625696,3.82409978108639,5.08602232581311
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",2012,"Rate",3.93324021102931,3.36778757844196,4.50737337331819
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",2013,"Rate",4.11525998798143,3.53581547995104,4.7005963527557
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",2,"Female",27,"Age-standardized",2014,"Rate",4.06220519865941,3.42351844282024,4.70866261107225
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1980,"Rate",16.9762670324459,15.2263047266646,18.9084904155536
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1981,"Rate",15.7562711289721,14.1419399620964,17.4398207811414
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1982,"Rate",16.4882301277499,14.8259860512008,18.2318122802036
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1983,"Rate",15.2689930211565,13.7455699424828,16.966012505121
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1984,"Rate",16.014892109584,14.3881438983326,17.6038719027438
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1985,"Rate",13.2306859384897,11.898498983302,14.6023440263426
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1986,"Rate",14.4650432329251,12.9935134497174,16.0922188893383
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1987,"Rate",13.2506410774748,11.8953053438514,14.7081876171652
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1988,"Rate",12.7125095606416,11.4206551755859,14.0958402680756
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1989,"Rate",12.7108397920315,11.2845888266825,14.0667480084428
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1990,"Rate",11.0018014613451,9.86825974643313,12.2081532412254
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1991,"Rate",10.7934407387856,9.63292686209241,11.9424759979123
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1992,"Rate",10.42116781628,9.26995792503232,11.5458501535499
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1993,"Rate",10.9345877760684,9.76573190871543,12.1721463455639
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1994,"Rate",9.46806793184756,8.47998719394512,10.5036800162701
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1995,"Rate",9.53459812046439,8.54639621433984,10.5349955441617
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1996,"Rate",9.38246882904092,8.2839358771025,10.4732895320325
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1997,"Rate",9.76275615294146,8.69488304887433,10.9066691069003
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1998,"Rate",9.71893312462753,8.65069791423479,10.8232084697326
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",1999,"Rate",8.56163370887291,7.64126480317608,9.60359969047772
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",2000,"Rate",8.54869930997389,7.58104354388993,9.59105635890764
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",2001,"Rate",9.42595840785072,8.26426259040091,10.6424615606904
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",2002,"Rate",9.04855537271034,8.05709379393156,10.1130056745859
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",2003,"Rate",9.37517445743485,8.3785893122739,10.4918081462493
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",2004,"Rate",9.15601020542399,8.18590491097716,10.3097358231434
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",2005,"Rate",9.8798028727334,8.76243778458325,11.0270873356937
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",2006,"Rate",9.58394040996765,8.51323717716223,10.6234456855547
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",2007,"Rate",9.51252715132845,8.4580459756603,10.6145042282362
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",2008,"Rate",9.93866643636068,8.85386316580066,10.9861573584955
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",2009,"Rate",9.22903185570251,8.26891867497249,10.2920149537098
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",2010,"Rate",9.25758370131362,8.31916846578706,10.2730749985352
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",2011,"Rate",8.87221150829618,7.88189848829743,9.75667826794251
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",2012,"Rate",8.99332589482638,8.03159438994035,9.91355187377974
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",2013,"Rate",8.95397997119845,8.00724412737704,9.94670619145912
+1,"Deaths",891,"District of Columbia",11001,718,"Self-harm",3,"Both",27,"Age-standardized",2014,"Rate",8.99706008219103,8.01556769007902,10.000345302103
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1980,"Rate",58.8953695833909,54.3105028783047,63.1786986415519
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1981,"Rate",68.2852664099432,63.9110237757378,72.3732323082773
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1982,"Rate",65.4274895150598,61.2506250132926,69.5801931321736
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1983,"Rate",58.8274197218375,55.0921332627853,62.9317143196273
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1984,"Rate",58.2941626124459,53.9579347494858,62.361567480468
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1985,"Rate",58.3442252015877,54.7352978568837,61.8378415839633
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1986,"Rate",60.780695869301,56.8309683122534,64.7581125952122
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1987,"Rate",65.9137861352937,62.1729216970791,69.4951580764098
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1988,"Rate",81.2473434513823,77.3898388289938,85.3414181291711
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1989,"Rate",86.8513914635905,82.9970820231255,90.8119166453941
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1990,"Rate",85.3925779061723,81.722313261986,89.2846866461945
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1991,"Rate",85.3340353680858,81.4375956889825,89.4782658591698
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1992,"Rate",84.1595289358517,80.5384159672367,87.7746162506016
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1993,"Rate",84.1723593983983,80.5577947252818,87.9575434867413
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1994,"Rate",78.4102303611979,74.8977947304227,81.9501980236749
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1995,"Rate",74.3470100503255,71.0020283142449,77.9245800516358
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1996,"Rate",75.9844588846799,72.1969408370514,79.5432898723307
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1997,"Rate",64.9472253501395,61.5469315302915,68.4814820415037
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1998,"Rate",59.5528808985454,56.4759332066094,62.6489958130756
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1999,"Rate",56.9991340441599,53.7442827773929,60.2030847789484
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2000,"Rate",55.3430908443723,52.3620605578942,58.2230708192084
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2001,"Rate",55.4301188304814,50.6214303818114,59.4890005450911
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2002,"Rate",63.6635128889339,60.3237444366727,67.1665695649349
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2003,"Rate",59.7566882124877,56.2859519522691,62.9092331336457
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2004,"Rate",54.7778787792692,51.665055120348,57.985723150457
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2005,"Rate",56.7004358685046,53.4372441184376,59.7118978023111
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2006,"Rate",50.5928327384528,47.5739263927717,53.4339945541734
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2007,"Rate",49.0792043783104,46.1545937196985,52.2130934293788
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2008,"Rate",49.7956588078248,46.6658560123636,52.860440779579
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2009,"Rate",44.8449866203554,41.7772040172126,47.8245706801108
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2010,"Rate",39.1535639633817,36.2873070604724,42.0671379662998
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2011,"Rate",36.4128687197029,33.8285913024886,39.0431135912842
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2012,"Rate",32.0642337447903,29.3329700916306,34.6705353621388
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2013,"Rate",33.553418083113,30.6897370575672,36.2709827918771
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2014,"Rate",33.3623647492139,30.4626954071946,36.1882575106986
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1980,"Rate",14.1904348073744,12.4779742594556,15.8658575983754
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1981,"Rate",14.1741716361193,12.6064503165239,15.7401323673329
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1982,"Rate",14.047147882872,12.4852350563031,15.5352720573709
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1983,"Rate",12.2259581038774,10.6578141460453,13.6966069648964
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1984,"Rate",13.2512933377886,11.8184565479879,14.711625877025
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1985,"Rate",11.903210162439,10.490035644167,13.2963158010489
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1986,"Rate",12.7241323246553,11.2830872774193,14.0698365742406
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1987,"Rate",13.3619656760602,12.0553972521199,14.6805545929983
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1988,"Rate",14.0724192886723,12.6187261739426,15.5140038061612
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1989,"Rate",12.5637419176272,11.2115500515997,13.7299168801403
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1990,"Rate",13.526792008826,12.2229670424109,14.7519529662577
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1991,"Rate",13.9298153501594,12.633396594735,15.1714695883845
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1992,"Rate",11.5544022294371,10.4482519168397,12.6920493726688
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1993,"Rate",13.7441585157757,12.3045084638604,15.1346072932132
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1994,"Rate",11.0003601361811,9.95406279702384,11.9956948136103
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1995,"Rate",10.405115568012,9.36269706580926,11.410153334498
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1996,"Rate",10.4852482253062,9.3805999585122,11.4963616126747
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1997,"Rate",10.7217620552153,9.60026799844824,11.8028846658937
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1998,"Rate",9.38173114058272,8.31417413539031,10.4396043311709
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1999,"Rate",8.35109841987165,7.35059953109923,9.28323207708147
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2000,"Rate",8.69338720450287,7.68851611483566,9.67556934251765
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2001,"Rate",8.22452147546989,7.31005349583122,9.19927929097098
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2002,"Rate",8.88020894435159,7.81408443825473,9.93661811460858
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2003,"Rate",7.76971254084613,6.73373898513077,8.6970114349959
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2004,"Rate",7.52935008502186,6.52819076647138,8.45113277492116
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2005,"Rate",7.70395824404236,6.74398182585095,8.63707708832459
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2006,"Rate",6.76739630194584,5.84564215283108,7.62122863142827
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2007,"Rate",6.77946253994226,5.84843913774552,7.67328489066082
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2008,"Rate",6.90091972969574,5.93636722145382,7.95600673220731
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2009,"Rate",6.15087963310935,5.20049220278314,7.0705587266394
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2010,"Rate",5.73410352593054,4.82682281606749,6.65688770614665
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2011,"Rate",5.55277388577256,4.6546087814231,6.557150099549
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2012,"Rate",5.25651153572131,4.39802764716391,6.12710518864504
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2013,"Rate",5.21685360500834,4.32107331288877,6.09559910212746
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2014,"Rate",5.5157766238718,4.5780562407815,6.51355878969844
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1980,"Rate",35.4035726017408,33.1077349992504,37.6984688238095
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1981,"Rate",39.8058149385056,37.6437373774709,41.9154624597499
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1982,"Rate",38.4159754451843,36.2035271344872,40.5228700387339
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1983,"Rate",34.2524794769715,32.2244482847033,36.4788581477581
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1984,"Rate",34.6071997617849,32.4775844980239,36.6898521096055
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1985,"Rate",33.9091302312674,32.0872445714398,35.7435344173376
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1986,"Rate",35.5570169405538,33.5733315510298,37.4431989519767
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1987,"Rate",38.3088308221755,36.330792212544,40.1696686283639
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1988,"Rate",45.8146367129506,43.8455648218725,47.7847595758237
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1989,"Rate",47.6131486772297,45.6013522217738,49.6129795362825
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1990,"Rate",47.4110426786319,45.5708713376559,49.3219691773586
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1991,"Rate",47.6956666803551,45.8232048074781,49.7527390754296
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1992,"Rate",45.9557259392462,44.1101815648379,47.8242073686616
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1993,"Rate",47.0316113675903,45.1641054703166,48.9035319743305
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1994,"Rate",42.8498929829554,41.0785981936304,44.5761285104957
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1995,"Rate",40.6491383584711,38.9079015326691,42.3813388795689
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1996,"Rate",41.3415171732233,39.4291194623504,43.1081642487773
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1997,"Rate",36.4927576813349,34.7998022740609,38.274216466037
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1998,"Rate",33.2014076872952,31.6270720828799,34.7394544554198
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1999,"Rate",31.4115764082277,29.8344646791075,32.9761244599171
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2000,"Rate",30.8448049338259,29.2910762577452,32.3560863055702
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2001,"Rate",30.6859461283161,28.3787398289183,32.6791049438972
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2002,"Rate",34.8686173314067,33.129254337347,36.6786629829421
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2003,"Rate",32.3973960988245,30.7657285507282,33.9958333384782
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2004,"Rate",29.9139255520724,28.3138206333095,31.5025065270498
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2005,"Rate",30.9702806474496,29.3295668758956,32.5166681313056
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2006,"Rate",27.5571942328542,26.0502745472351,29.0048822453088
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2007,"Rate",26.9008006539049,25.3877136920376,28.5293844071097
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2008,"Rate",27.2487664440198,25.6707322935749,28.7856037053462
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2009,"Rate",24.5648349802232,23.0462521270279,26.1542690290241
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2010,"Rate",21.5977232944562,20.1690769055054,23.1492682990362
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2011,"Rate",20.1858388623456,18.8486555301288,21.5221014660145
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2012,"Rate",17.9428824990936,16.4806851001673,19.2928377526497
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2013,"Rate",18.6538019778222,17.1790737897138,20.0252007557767
+1,"Deaths",531,"District of Columbia",11,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2014,"Rate",18.7218525317437,17.2906406818445,20.118867347381
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1980,"Rate",58.8953695833909,54.3105028783047,63.1786986415519
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1981,"Rate",68.2852664099432,63.9110237757378,72.3732323082773
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1982,"Rate",65.4274895150598,61.2506250132926,69.5801931321736
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1983,"Rate",58.8274197218375,55.0921332627853,62.9317143196273
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1984,"Rate",58.2941626124459,53.9579347494858,62.361567480468
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1985,"Rate",58.3442252015877,54.7352978568837,61.8378415839633
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1986,"Rate",60.780695869301,56.8309683122534,64.7581125952122
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1987,"Rate",65.9137861352937,62.1729216970791,69.4951580764098
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1988,"Rate",81.2473434513823,77.3898388289938,85.3414181291711
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1989,"Rate",86.8513914635905,82.9970820231255,90.8119166453941
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1990,"Rate",85.3925779061723,81.722313261986,89.2846866461945
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1991,"Rate",85.3340353680858,81.4375956889825,89.4782658591698
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1992,"Rate",84.1595289358517,80.5384159672367,87.7746162506016
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1993,"Rate",84.1723593983983,80.5577947252818,87.9575434867413
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1994,"Rate",78.4102303611979,74.8977947304227,81.9501980236749
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1995,"Rate",74.3470100503255,71.0020283142449,77.9245800516358
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1996,"Rate",75.9844588846799,72.1969408370514,79.5432898723307
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1997,"Rate",64.9472253501395,61.5469315302915,68.4814820415037
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1998,"Rate",59.5528808985454,56.4759332066094,62.6489958130756
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",1999,"Rate",56.9991340441599,53.7442827773929,60.2030847789484
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2000,"Rate",55.3430908443723,52.3620605578942,58.2230708192084
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2001,"Rate",55.4301188304814,50.6214303818114,59.4890005450911
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2002,"Rate",63.6635128889339,60.3237444366727,67.1665695649349
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2003,"Rate",59.7566882124877,56.2859519522691,62.9092331336457
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2004,"Rate",54.7778787792692,51.665055120348,57.985723150457
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2005,"Rate",56.7004358685046,53.4372441184376,59.7118978023111
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2006,"Rate",50.5928327384528,47.5739263927717,53.4339945541734
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2007,"Rate",49.0792043783104,46.1545937196985,52.2130934293788
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2008,"Rate",49.7956588078248,46.6658560123636,52.860440779579
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2009,"Rate",44.8449866203554,41.7772040172126,47.8245706801108
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2010,"Rate",39.1535639633817,36.2873070604724,42.0671379662998
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2011,"Rate",36.4128687197029,33.8285913024886,39.0431135912842
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2012,"Rate",32.0642337447903,29.3329700916306,34.6705353621388
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2013,"Rate",33.553418083113,30.6897370575672,36.2709827918771
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",1,"Male",27,"Age-standardized",2014,"Rate",33.3623647492139,30.4626954071946,36.1882575106986
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1980,"Rate",14.1904348073744,12.4779742594556,15.8658575983754
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1981,"Rate",14.1741716361193,12.6064503165239,15.7401323673329
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1982,"Rate",14.047147882872,12.4852350563031,15.5352720573709
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1983,"Rate",12.2259581038774,10.6578141460453,13.6966069648964
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1984,"Rate",13.2512933377886,11.8184565479879,14.711625877025
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1985,"Rate",11.903210162439,10.490035644167,13.2963158010489
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1986,"Rate",12.7241323246553,11.2830872774193,14.0698365742406
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1987,"Rate",13.3619656760602,12.0553972521199,14.6805545929983
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1988,"Rate",14.0724192886723,12.6187261739426,15.5140038061612
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1989,"Rate",12.5637419176272,11.2115500515997,13.7299168801403
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1990,"Rate",13.526792008826,12.2229670424109,14.7519529662577
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1991,"Rate",13.9298153501594,12.633396594735,15.1714695883845
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1992,"Rate",11.5544022294371,10.4482519168397,12.6920493726688
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1993,"Rate",13.7441585157757,12.3045084638604,15.1346072932132
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1994,"Rate",11.0003601361811,9.95406279702384,11.9956948136103
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1995,"Rate",10.405115568012,9.36269706580926,11.410153334498
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1996,"Rate",10.4852482253062,9.3805999585122,11.4963616126747
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1997,"Rate",10.7217620552153,9.60026799844824,11.8028846658937
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1998,"Rate",9.38173114058272,8.31417413539031,10.4396043311709
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",1999,"Rate",8.35109841987165,7.35059953109923,9.28323207708147
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2000,"Rate",8.69338720450287,7.68851611483566,9.67556934251765
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2001,"Rate",8.22452147546989,7.31005349583122,9.19927929097098
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2002,"Rate",8.88020894435159,7.81408443825473,9.93661811460858
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2003,"Rate",7.76971254084613,6.73373898513077,8.6970114349959
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2004,"Rate",7.52935008502186,6.52819076647138,8.45113277492116
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2005,"Rate",7.70395824404236,6.74398182585095,8.63707708832459
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2006,"Rate",6.76739630194584,5.84564215283108,7.62122863142827
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2007,"Rate",6.77946253994226,5.84843913774552,7.67328489066082
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2008,"Rate",6.90091972969574,5.93636722145382,7.95600673220731
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2009,"Rate",6.15087963310935,5.20049220278314,7.0705587266394
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2010,"Rate",5.73410352593054,4.82682281606749,6.65688770614665
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2011,"Rate",5.55277388577256,4.6546087814231,6.557150099549
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2012,"Rate",5.25651153572131,4.39802764716391,6.12710518864504
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2013,"Rate",5.21685360500834,4.32107331288877,6.09559910212746
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",2,"Female",27,"Age-standardized",2014,"Rate",5.5157766238718,4.5780562407815,6.51355878969844
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1980,"Rate",35.4035726017408,33.1077349992504,37.6984688238095
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1981,"Rate",39.8058149385056,37.6437373774709,41.9154624597499
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1982,"Rate",38.4159754451843,36.2035271344872,40.5228700387339
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1983,"Rate",34.2524794769715,32.2244482847033,36.4788581477581
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1984,"Rate",34.6071997617849,32.4775844980239,36.6898521096055
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1985,"Rate",33.9091302312674,32.0872445714398,35.7435344173376
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1986,"Rate",35.5570169405538,33.5733315510298,37.4431989519767
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1987,"Rate",38.3088308221755,36.330792212544,40.1696686283639
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1988,"Rate",45.8146367129506,43.8455648218725,47.7847595758237
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1989,"Rate",47.6131486772297,45.6013522217738,49.6129795362825
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1990,"Rate",47.4110426786319,45.5708713376559,49.3219691773586
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1991,"Rate",47.6956666803551,45.8232048074781,49.7527390754296
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1992,"Rate",45.9557259392462,44.1101815648379,47.8242073686616
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1993,"Rate",47.0316113675903,45.1641054703166,48.9035319743305
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1994,"Rate",42.8498929829554,41.0785981936304,44.5761285104957
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1995,"Rate",40.6491383584711,38.9079015326691,42.3813388795689
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1996,"Rate",41.3415171732233,39.4291194623504,43.1081642487773
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1997,"Rate",36.4927576813349,34.7998022740609,38.274216466037
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1998,"Rate",33.2014076872952,31.6270720828799,34.7394544554198
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",1999,"Rate",31.4115764082277,29.8344646791075,32.9761244599171
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2000,"Rate",30.8448049338259,29.2910762577452,32.3560863055702
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2001,"Rate",30.6859461283161,28.3787398289183,32.6791049438972
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2002,"Rate",34.8686173314067,33.129254337347,36.6786629829421
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2003,"Rate",32.3973960988245,30.7657285507282,33.9958333384782
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2004,"Rate",29.9139255520724,28.3138206333095,31.5025065270498
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2005,"Rate",30.9702806474496,29.3295668758956,32.5166681313056
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2006,"Rate",27.5571942328542,26.0502745472351,29.0048822453088
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2007,"Rate",26.9008006539049,25.3877136920376,28.5293844071097
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2008,"Rate",27.2487664440198,25.6707322935749,28.7856037053462
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2009,"Rate",24.5648349802232,23.0462521270279,26.1542690290241
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2010,"Rate",21.5977232944562,20.1690769055054,23.1492682990362
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2011,"Rate",20.1858388623456,18.8486555301288,21.5221014660145
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2012,"Rate",17.9428824990936,16.4806851001673,19.2928377526497
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2013,"Rate",18.6538019778222,17.1790737897138,20.0252007557767
+1,"Deaths",891,"District of Columbia",11001,724,"Interpersonal violence",3,"Both",27,"Age-standardized",2014,"Rate",18.7218525317437,17.2906406818445,20.118867347381

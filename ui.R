@@ -30,7 +30,7 @@ my_ui <- fluidPage(
       tabsetPanel(
         type = "tabs",
         tabPanel(
-          "Question 1", br()
+          "Question 1", br(), plotOutput("question_one_plot_a"), br(), plotOutput("question_one_plot_b")
         ),
         tabPanel(
           "Question 2", br()

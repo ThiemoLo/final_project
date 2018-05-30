@@ -8,6 +8,11 @@ library(ggplot2)
 my_server <- function(input, output) {
   
 ### QUESTION 1
+  generation_silent <- (1925:1945)
+  generation_baby_boomer <- (1946:1964)
+  generation_x <- (1965:1979)
+  generation_y <- (1980:1994)
+  generation_z <- (1995:2012)
   output$question_one_plot_a <- renderPlot({
   ## Pulling in correct csv file based on state selected
     fixed_state <- gsub(" ", "_", input$state_select)
@@ -21,7 +26,7 @@ my_server <- function(input, output) {
                  birth_year %in% generation_baby_boomer ~ "Baby Boomer",
                  birth_year %in% generation_x ~ "X",
                  birth_year %in% generation_y ~ "Y",
-                 birth_year %in% generation_silent ~ "Z"
+                 birth_year %in% generation_z ~ "Z"
                ))
     
     ## For overall statistics
@@ -159,7 +164,7 @@ my_server <- function(input, output) {
                  birth_year %in% generation_baby_boomer ~ "Baby Boomer",
                  birth_year %in% generation_x ~ "X",
                  birth_year %in% generation_y ~ "Y",
-                 birth_year %in% generation_silent ~ "Z"
+                 birth_year %in% generation_z ~ "Z"
                ))
     ## Year over year changes for specific type
     type <- input$type_slider

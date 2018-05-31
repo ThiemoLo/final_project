@@ -5,8 +5,8 @@ account: igorbanin
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 351990
-bundleId: 1403361
+bundleId: 1403379
 url: https://igorbanin.shinyapps.io/final_project/
-when: 1527797738.84957
+when: 1527798130.75494
 asMultiple: FALSE
 asStatic: FALSE

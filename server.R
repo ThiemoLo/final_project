@@ -503,7 +503,7 @@ my_server <- function(input, output) {
     
     #Graph of mx mortality rate as median family income rises
     p <- ggplot(data = final_data) +
-      geom_point(mapping = aes(x = Median.family.income, y = mx)) +
+      geom_smooth(mapping = aes(x = Median.family.income, y = mx)) +
       labs(
         title = paste0("Average Mortality Rates By Median Family Income for ", input$state_select, 
                        " in ", input$year),

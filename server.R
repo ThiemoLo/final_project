@@ -8,6 +8,8 @@ library("splitstackshape")
 library("tidyr")
 library("DT")
 
+source("analysis4.R") # QUESTION 4 DATA
+
 ## QUESTION 1 DATA FORMATTING
 generation_baby_boomer <- (1946:1964)
 generation_x <- (1965:1979)
@@ -474,8 +476,87 @@ my_server <- function(input, output) {
     HTML(paste(reference1, reference2, reference3, reference4, reference5,
                reference6, reference7, reference8, sep = '<br/>'))
   })
-}
 
-## END OF QUESTION 2 SERVER 
+
+## END OF QUESTION 2 SERVER
+
+## QUESTIOn 4 SERVER
+  output$self_harm_review_line <- renderPlot({
+    avg_self_harm_line_graph
+  })
+  
+  output$self_harm_review_avgs <- renderDT({
+    colnames(avg_self_harm_data) <- c("Year", "Average Rate")
+    avg_self_harm_data
+  })
+  
+  output$self_harm_review_explain <- renderText({
+    "The plot represents the average self-harm mortality rate in the United
+    States every 5 years, detailed as a line graph to show the trend. The
+    x-axis is the year number and the y-axis is the mortality rate number.
+    The table shows the average self-harm mortality rates every 5 years
+    from 1980 - 2014."
+  })
+  
+  output$mental_health_bills <- renderDT({
+    mental_health_data
+  })
+  
+  output$mental_health_bills_explain <- renderText({
+    paste0("The table shows the number of health bills, specifically mental health
+      bills, that were enacted during each 5-year interval from 1980-2014.
+      Along with that, the table shows the change in self-harm mortality rate
+      during each interval as well as the average change per bill. The total number
+      of mental health bills passed between 1980-2014 is ",
+      sum(mental_health_data$`Health Bill Count`), " and the overall average rate
+      change per bill is ", overall_avg_rate_change, "."
+    )
+  })
+  
+  output$mental_health_bills_analysis <- renderText({
+    "From looking back at the average self-harm mortality rates (plot and table) every
+    5 years from 1980-2014, it seems like the average rate is within the range of 14-16,
+    which isn't even big. By looking at the graph, we can see a clear drop in mortality
+    rate between 1995 and 2000, where the mortality rate dropped by 1 whole unit. A
+    hypothesis to be made here is that there was an increase in mental illness/disorder
+    awareness & treatment. To find out, we observe the number of health bills, specifically
+    mental health bills, that have been passed during given 5-year intervals (this data was
+    obtainable via GovTrack). We see that, according to the table with bill counts and rate changes,
+    between 1995 and 1999, about 169 health bills were enacted. With the range of health bill counts
+    between 25 and 189, 169 is very close to the max count at any given 5-year interval.
+    Also, the 1995-1999 interval has the largest absolute value of self-harm mortality
+    rate change and average rate change per bill. Also, because bills sometimes need
+    time to ramp up, the health bill count in the 5-year interval 1990-1994 may also
+    have helped the decrease in self-harm mortality rate between years 1995 and 2000.\n\n
+    What's very peculiar is that the 5-year interval 2000-2004 had the max number of
+    health bills passed, but the mortality rate started to increase greatly. Regardless,
+    it also marked the point when the health bill count started to decrease, which could be
+    the reason why the self-harm mortality rate started to increase at that time til 2014."
+  })
+  
+  output$conclusion_four <- renderText({
+    "From year 1980 to 2000, there has been a decrease in self-harm mortality,
+    especially between years 1995 and 2000. Also, at this time, the number of mental health bills
+    passed also started to increase, which may be one of the reasons why the mortality rate declined.
+    However, between years 2000 and 2005, the mortality rate started to increase greatly and since 2000,
+    it has increased. The number of health bills enacted in 5-year intervals does decrease, so we can see
+    the same indirect relationship between health bill count and self-harm mortality rate.\n\n
+    An article by Rockett, Ian (2016) details an experiment that was done which hinted that there may have
+    been a resurgance of substance abuse, substance use disorders, and suicide in the early 21st century. This
+    may be why, despite a large number of health bills being enacted between 2000-2005, the self-harm mortality
+    rate started to increase dramatically. A link to the article is in the resources below. Climate change,
+    altitude, and specific regions could also be reasons to the increase (see \"Ripple Effects\" tab)."
+  })
+  
+  output$reference_four <- renderUI({
+    reference_1 <-
+      "https://www.govtrack.us/congress/bills/subjects/mental_health/6176"
+    reference_2 <- 
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5482223/"
+    reference_3 <- "http://ghdx.healthdata.org/record/
+      united-states-substance-use-disorders-and-intentional-injuries-mortality-rates-county-1980"
+    HTML(paste(reference_1, reference_2, reference_3, sep = '<br/>'))
+  })
+}
 
 shinyServer(my_server)

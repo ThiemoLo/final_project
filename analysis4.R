@@ -1,18 +1,10 @@
-library(dplyr)
-library(tidyr)
-library(ggplot2)
-
-#source("apikeys.R")
-
-#4. Over the past 20 years, with increases in mental illness/disorder awareness and treatment,
-# is there a decrease in self-harm mortality? This aims to see if whether certain state governments
-# have been successful in dealing with these societal problems. How many health bills have been
-# passed in a given year and how much on average has each bill changed the rate. Given some bills
-# need time to ramp up, what this overall change based on current overall number of bills?
+#library(dplyr)
+#library(tidyr)
+#library(ggplot2)
 
 # Get self-harm mortality data
 
-self_harm_data <- read.csv("data_4/self_harm_state_data.csv", stringsAsFactors = FALSE)
+self_harm_data <- read.csv("data/self_harm_state_data.csv", stringsAsFactors = FALSE)
 
 self_harm_data[3:10] <- lapply(self_harm_data[3:10], substr, 1, 5)
 
@@ -31,10 +23,21 @@ avg_self_harm_data <- self_harm_data_long %>%
   group_by(Year) %>%
   summarize(Average_Rate = mean(Mortality_Rate))
 
-avg_self_harm_data$Year <- as.numeric
-
-self_harm_boxplot <- ggplot(data = self_harm_data_long) +
-  geom_boxplot(mapping = aes(x = Year, y = Mortality_Rate))
-
 avg_self_harm_line_graph <- ggplot(data = avg_self_harm_data) +
-  geom_line(mapping = aes(x = as.numeric(Year), y = Average_Rate))
+  geom_line(mapping = aes(x = as.numeric(Year), y = Average_Rate), size = 5, color = "RED") +
+  labs(
+    title = "Average Yearly Self-Harm Mortality Rates",
+    x = "Year",
+    y = "Mortality Rate"
+  ) +
+  theme(plot.title = element_text(hjust = 0.5))
+
+# Get bill count and rate difference data
+
+mental_health_data <- read.csv("data/mental_health_bills_data.csv", stringsAsFactors = FALSE)
+
+mental_health_data <- mutate(mental_health_data, Rate_Change_per_Bill = Rate.Change/Bill.Count)
+overall_avg_rate_change <- summarize(mental_health_data, overall_change = sum(Rate.Change)/sum(Bill.Count))$overall_change
+overall_avg_rate_change <- round(overall_avg_rate_change, digits = 6)
+mental_health_data$Rate_Change_per_Bill <- round(mental_health_data$Rate_Change_per_Bill, digits = 6)
+colnames(mental_health_data) <- c("Year Interval", "Health Bill Count", "Rate Change", "Avg Rate Change per Bill")

@@ -93,16 +93,44 @@ my_ui <- fluidPage (
                            textOutput("conclusion"),
                            tags$head(tags$style("#conclusion{font-size: 18px;}")),
                            h3("Reference"),
-                           htmlOutput("reference"))
-                           ),
-      tabPanel(
-        "Question 3", br()
-      ),
-      tabPanel(
-        "Question 4", br()
-      )
-                  )  
+                           htmlOutput("reference")
+                  ),
+                  tabPanel( "Question 3", br()
+                  ),
+                  tabPanel("Outside-the-Box Analysis: Self-Harm and Health Bills",
+                    h3("Over the past 20 years, with increases in mental illness/disorder awareness
+                        and treatment, is there a decrease in self-harm mortality? How many health
+                        bills have been passed in a given year and how much on average has each bill
+                        changed the rate? Given some bills need time to ramp up, what is this overall
+                        change based on current overall number of bills?"),
+                    br(),
+                    h3("Self-Harm Mortality Rates"),
+                    br(),
+                    p("Let's review the average self-harm mortality rates in the United States every 5 years:"),
+                    br(),
+                    plotOutput("self_harm_review_line"),
+                    DTOutput("self_harm_review_avgs"),
+                    em(textOutput("self_harm_review_explain")),
+                    br(),
+                    h3("Health Bill Counts and Changes in Mortality Rate"),
+                    br(),
+                    p("Now let's see the correlation between health bill counts and change in mortality rates:"),
+                    br(),
+                    DTOutput("mental_health_bills"),
+                    em(textOutput("mental_health_bills_explain")),
+                    br(),
+                    h3("Observations and Analysis"),
+                    textOutput("mental_health_bills_analysis"),
+                    br(),
+                    h3("Conclusion"),
+                    textOutput("conclusion_four"),
+                    br(),
+                    h3("Reference"),
+                    htmlOutput("reference_four")
+                )
+            )
+        )
     )
-  )
+)
 
 shinyUI(my_ui)

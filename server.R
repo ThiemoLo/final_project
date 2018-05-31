@@ -20,19 +20,19 @@ generation_y <- (1980:1994)
 
 #Reads in the data files needed
 drug_mortality <-
-  read.csv("./data/drug_mortality_rate_data_y1980_y2014.csv", 
+  read.csv("data/drug_mortality_rate_data_y1980_y2014.csv", 
            stringsAsFactors = FALSE)
 alcohol_mortality <-
-  read.csv("./data/alcohol_mortality_rate_data_y1980_y2014.csv", 
+  read.csv("data/alcohol_mortality_rate_data_y1980_y2014.csv", 
            stringsAsFactors = FALSE)
 interpersonal_violence_mortality <-
-  read.csv("./data/interpersonal_violence_mortality_rate_data_y1980_y2014.csv",
+  read.csv("data/interpersonal_violence_mortality_rate_data_y1980_y2014.csv",
            stringsAsFactors = FALSE)
 self_harm_mortality <-
-  read.csv("./data/self_harm_mortality_rate_data_y1980_y2014.csv", 
+  read.csv("data/self_harm_mortality_rate_data_y1980_y2014.csv", 
            stringsAsFactors = FALSE)
 neighbor_states <-
-  read.csv("./data/neighbors-states.csv", stringsAsFactors = FALSE) %>%
+  read.csv("data/neighbors-states.csv", stringsAsFactors = FALSE) %>%
   filter(StateCode != "HI" & StateCode != "AK" & StateCode != "DC")
 
 ## QUESTION 3 DATA FORMATTING
@@ -87,7 +87,7 @@ my_server <- function(input, output) {
 ## QUESTION 1 SERVER
   output$question_one_plot_a <- renderPlot({
     fixed_state <- gsub(" ", "_", input$state_select)
-    state_data <- read.csv(paste0("./data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"))
+    state_data <- read.csv(paste0("data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"))
     ## Find birth year and generational bucket
     state_data <- state_data %>%
       mutate(birth_year = year_id - 27) %>%
@@ -152,10 +152,10 @@ my_server <- function(input, output) {
   output$question_one_plot_b <- renderPlot({
     ## Pulling in correct csv file based on state selected
     fixed_state <- gsub(" ", "_", input$state_select)
-    state_data <- read.csv(paste0("./data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"))
+    state_data <- read.csv(paste0("data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"))
     ## Find birth year and generational bucket
     fixed_state <- gsub(" ", "_", input$state_select)
-    state_data <- read.csv(paste0("./data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"))
+    state_data <- read.csv(paste0("data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"))
     ## Find birth year and generational bucket
     state_data <- state_data %>%
       mutate(birth_year = year_id - 27) %>%
@@ -491,7 +491,7 @@ my_server <- function(input, output) {
   
   output$question_three_table_a <- renderPlot({
     fixed_state <- gsub(" ", "_", input$state_select)
-    state_data <- read.csv(paste0("./data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"), 
+    state_data <- read.csv(paste0("data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"), 
                            stringsAsFactors = FALSE)
     final_data <- left_join(state_data, prosperity_data, by = "location_name")
     

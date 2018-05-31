@@ -1,9 +1,8 @@
+
 library(shiny)
 library(dplyr)
 library(DT)
 library(ggplot2)
-
-
 
 my_server <- function(input, output) {
   
@@ -229,6 +228,30 @@ my_server <- function(input, output) {
 ### END OF QUESTION 2
 
 ### QUESTION 3
+  
+  prosperity_data <- read.csv(file = "data/per_capita_income_per_county.csv", stringsAsFactors = FALSE)
+  colnames(prosperity_data)[2] <- "location_name"
+  prosperity_data$location_name <- paste(prosperity_data$location_name, "County")
+  
+  output$question_three_table_a <- renderTable({
+    fixed_state <- gsub(" ", "_", input$state_select)
+    state_data <- read.csv(paste0("./data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"), 
+                           stringsAsFactors = FALSE)
+    final_data <- left_join(state_data, prosperity_data, by = "location_name")
+    final_data <- filter(year_id == input$year_slider)
+    final_data <- type <- input$type_slider
+    
+    #Graph of mx mortality rate as median family income rises
+    p <- ggplot(data = final_data) +
+      geom_point(mapping = aes(x = Median.family.income, y = mx)) +
+      labs(
+        title = paste0("Average Mortality Rates By Median Family Income for ", input$state_select, 
+                       " in ", input$year_slider),
+        x = "Median Faily Income ($)",
+        y = paste0("Mortality Rate by ", input$type_slider) 
+      ) 
+    p
+  })
 
 
 ### END OF QUESTION 3

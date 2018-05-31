@@ -36,7 +36,7 @@ my_ui <- fluidPage(
           "Question 2", br()
         ),
         tabPanel(
-          "Question 3", br()
+          "Question 3", br(), plotOutput("question_three_plot_a")
         ),
         tabPanel(
           "Question 4", br()

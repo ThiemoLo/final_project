@@ -507,7 +507,7 @@ my_server <- function(input, output) {
       labs(
         title = paste0("Average Mortality Rates By Median Family Income for ", input$state_select, 
                        " in ", input$year),
-        x = "Median Faily Income ($)",
+        x = "Median Family Income ($)",
         y = paste0("Mortality Rate by ", input$abuse_type)
       ) +
       theme(axis.text.x = element_text(angle = 90, hjust = 1))

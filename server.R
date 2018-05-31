@@ -323,7 +323,8 @@ my_server <- function(input, output) {
      to the nearest available options. In the above table, the variable Change 
      was calculated based on the average of the differences between the state's 
      mortality rate and those of all its neighboring states. Due to geographical
-     natures, the states of Alaska and Hawaii will be excluded from the analysis."
+     locations, the states of Alaska and Hawaii will be excluded from the 
+     analysis."
   })  
   output$alcohol_analysis <- renderText({
     "According to the choropleth map, In the span of more tha 30 years between 
@@ -369,7 +370,71 @@ my_server <- function(input, output) {
   output$interpersonal_violence_analysis <- renderText({
     "Similar to self-harm, interpersonal violence seemed to be extremely
      one-sided: The south had had a consistently higher interpersonal violence
-     mortality rate than the north. "
+     mortality rate than the north. This was likely due to the higher crime
+     rates in the south of United States froom 1976 to 2000"
+  })
+
+  output$conclusion <- renderText({
+    "In conclusion, whether or not there were states that served as sources
+     that directly influence the mortality rates of their surrounding states
+     depends on the type of morality discussed. As for alcohol, due to the 
+     similarity between each state's legal status and people's accessibility 
+     to alcohol, all of the states share pretty much the same statistics with
+     a few outliers like New Mexico and Alaska, so no significant ripple
+     effect. Drugs on the other hand, initially had a few states with high
+     mortality rates, and eventually spread out evenly for all states. Over the
+     span of 30 years, smugglers were likely able to come up with means to 
+     transport their products to expand their markets, giving people from more
+     states access to drugs. Therefore a ripple effect might be present for
+     drugs. Self-harm and interpersonal violence shared a similar property:
+     a confounding variable created a ripple-effect-lookalike. All of the
+     states with higher self-harm rates tend to have higher altitude, which is
+     found to be a factor contributing to depression; All of the states with
+     higher interpersonal violence rates tend to have a higher crime rates.
+     So for the last two types it really is just a conincidence that adjacent
+     states happen to share a similarity in their characteristics."
+  }) 
+  
+  output$reference <- renderUI({
+    reference1 <-
+      "Hanson, D. J. (2017, March 01). Prohibition in New Mexico was Welcomed, 
+       then Rejected. Retrieved from 
+       https://www.alcoholproblemsandsolutions.org/prohibition-in-new-mexico/"
+    
+    reference2 <-
+      "Gallup, Inc. (2002, July 09). Decades of Drug Use: The '80s and '90s. 
+       Retrieved from 
+       http://news.gallup.com/poll/6352/decades-drug-use-80s-90s.aspx" 
+    
+    reference3 <-
+      "History of Ecstasy (MDMA). (n.d.). Retrieved from 
+       https://www.narconon.org/drug-information/ecstasy-history.html"
+    
+    reference4 <-
+      "Travel Tips & Information. (n.d.). Retrieved from 
+       http://www.visitcalifornia.com/feature/travel-tips-information"
+    
+    reference5 <-
+      "Holmes, L. (2017, December 07). This Is Your Brain On Spring. 
+       Retrieved from 
+       https://www.huffingtonpost.com/2015/04/22/warm-weather-mood_n_7056636.html"
+    
+    reference6 <-
+      "United States Substance Use Disorders and Intentional Injuries Mortality Rates 
+       by County 1980-2014. (1970, January 01). Retrieved from 
+       http://ghdx.healthdata.org/record/united-states-substance-use-disorders-and-intentional-injuries-mortality-rates-county-1980"
+    
+    reference7 <-
+      "Murder Rates Nationally and By State. (n.d.). Retrieved from 
+       https://deathpenaltyinfo.org/murder-rates-nationally-and-state"
+    
+    reference8 <-
+      "Best, A. (2015, May 12). Thin Air Might Increase Depression in Mountain 
+       States. Retrieved May 30, 2018, from 
+       https://www.livescience.com/50813-low-oxygen-increase-depression.html"
+    
+    HTML(paste(reference1, reference2, reference3, reference4, reference5,
+               reference6, reference7, reference8, sep = '<br/>'))
   })
 }
 

@@ -41,11 +41,12 @@ my_ui <- fluidPage (
                       textOutput("graph_b"),
                       br(), plotOutput("question_one_plot_b")
                   ),
-                  tabPanel("Ripple Effect", h3("Are there high concentration regions of certain mortality types and do these 
-                                            concentrated areas have noticeable ripple effects in surrounding states? In 
-                                            other words, does the mortality rate of a single state affect those of its 
-                                            neighboring states? What are the possible factors contributing to the 
-                                            results"),
+                  tabPanel("Ripple Effects",
+                           h3("Are there high concentration regions of certain mortality types and do these 
+                               concentrated areas have noticeable ripple effects in surrounding states? In 
+                               other words, does the mortality rate of a single state affect those of its 
+                               neighboring states? What are the possible factors contributing to the 
+                               results."),
                            br(),
                            h3("Visualizations"),
                            br(),
@@ -57,18 +58,27 @@ my_ui <- fluidPage (
                            h3("Observations and Analysis"),
                            tags$head(tags$style("#variable_explained{font-size: 16px;
                                                            font-style: italic;}")),
+                           h4("Alcohol"),
                            textOutput("alcohol_analysis"),
                            br(),
                            tags$head(tags$style("#alcohol_analysis{font-size: 18px;}")),
+                           h4("Drug"),
                            textOutput("drug_analysis"),
                            br(),
                            tags$head(tags$style("#drug_analysis{font-size: 18px;}")),
+                           h4("Self-harm"),
                            textOutput("self_harm_analysis"),
                            br(),
                            tags$head(tags$style("#self_harm_analysis{font-size: 18px;}")),
+                           h4("Interpersonal Violence"),
                            textOutput("interpersonal_violence_analysis"),
                            br(),
-                           tags$head(tags$style("#interpersonal_violence_analysis{font-size: 18px;}")))
+                           tags$head(tags$style("#interpersonal_violence_analysis{font-size: 18px;}")),
+                           h3("Conclusion"),
+                           textOutput("conclusion"),
+                           tags$head(tags$style("#conclusion{font-size: 18px;}")),
+                           h3("Reference"),
+                           htmlOutput("reference"))
                   ),
                   tabPanel(
                     "Question 3", br()
@@ -76,9 +86,8 @@ my_ui <- fluidPage (
                   tabPanel(
                     "Question 4", br()
                   )
+                           )  
       )
     )
-  )
-
-
+  
 shinyUI(my_ui)

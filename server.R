@@ -9,6 +9,12 @@ library("splitstackshape")
 library("tidyr")
 library("DT")
 
+data <- read.csv("data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_WYOMING_Y2018M03D13.CSV")
+data <- filter(data, year_id == "1998")
+final_data <- left_join(data, prosperity_data, by = "location_name")
+final_data <- filter(final_data, year_id == "1998", sex == "Both",
+                     cause_name == "Alcohol use disorders", State == "Wyoming")
+
 source("analysis4.R") # QUESTION 4 DATA
 
 ## QUESTION 1 DATA FORMATTING
@@ -489,20 +495,20 @@ my_server <- function(input, output) {
 
 ## QUESTION 3 PROSPERITY
   
-  output$question_three_table_a <- renderTable({
+  output$question_three_table_a <- renderPlot({
     fixed_state <- gsub(" ", "_", input$state_select)
     state_data <- read.csv(paste0("./data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"), 
                            stringsAsFactors = FALSE)
     final_data <- left_join(state_data, prosperity_data, by = "location_name")
-    final_data <- filter(year_id == input$year_slider)
-    final_data <- type <- input$type_slider
+    final_data <- filter(final_data, year_id == input$year_slider, sex == "Both",
+                         cause_name == input$type_slider)
     
     #Graph of mx mortality rate as median family income rises
     p <- ggplot(data = final_data) +
       geom_point(mapping = aes(x = Median.family.income, y = mx)) +
       labs(
         title = paste0("Average Mortality Rates By Median Family Income for ", input$state_select, 
-                       " in ", input$year_slider),
+                       " in ", input$year_slider, State == input$state_select),
         x = "Median Faily Income ($)",
         y = paste0("Mortality Rate by ", input$type_slider) 
       ) 

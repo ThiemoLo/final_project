@@ -9,23 +9,6 @@ library("splitstackshape")
 library("tidyr")
 library("DT")
 
-data <- read.csv("data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_WYOMING_Y2018M03D13.CSV")
-data <- filter(data, year_id == "1998")
-final_data <- left_join(data, prosperity_data, by = "location_name")
-final_data <- filter(final_data, year_id == "1998", sex == "Both",
-                     cause_name == "Alcohol use disorders", State == "Wyoming")
-ggplot(data = final_data) +
-  geom_smooth(mapping = aes(x = Median.family.income, y = mx)) +
-  geom_point(mapping = aes(x = Median.family.income, y = mx)) +
-  theme(axis.text.x = element_text(face="bold", color="#993333", 
-                                   size=10, angle=70)) + 
-  labs(
-    title = paste0("Average Mortality Rates By Median Family Income for ", "input$state_select", 
-                   " in ", "input$year_slider"),
-    x = "Median Faily Income ($)",
-    y = paste0("Mortality Rate by ", "input$type_slider") 
-  )
-
 source("analysis4.R") # QUESTION 4 DATA
 
 ## QUESTION 1 DATA FORMATTING
@@ -527,22 +510,77 @@ my_server <- function(input, output) {
       labs(
         title = paste0("Average Mortality Rates By Median Family Income for ", input$state_select, 
                        " in ", input$year),
-        x = "Median Faily Income ($)",
+        x = "Median Family Income ($)",
         y = paste0("Mortality Rate by ", input$abuse_type) 
       ) 
     p
   })
   
   output$money_alcohol_analysis <- renderText({
+    "Two of the highest value median family incomes at $85,885 and $83,558
+    in Sublette and Teton County respectively corresponded with the lowest
+    average mortality rates at 1.5 and 1.47. There are a lot of factors that
+    drive individuals to Alcohol abuse such as: peer pressure, a way to deal
+    with stress, financial worries, etc.  The data seems to suggest that the
+    higher the median family income in an area, the lower the mortality rate
+    from alcohol abuse. In the top 5 counties in terms of median family income,
+    only one county had its mortality rate slightly above 3 at (3.35), the
+    rest of which were below that point. When looking at the bottom 5 counties
+    by median family income, all had a mortality rate greater than 2, one
+    going as high as 7.7. Granted the mortality rate based on alcohol abuse
+    can be severely skewed on outliers in a population (an example being
+    where there is a particularly large homeless population). This still
+    indicates populations with overall less financial worries also suffer
+    less from alcohol abuse. "
   })
   
   output$money_self_harm_analysis <- renderText({
+    "Unlike Alcohol abuse, self-harm mortality rates have a much more even
+    distribution, regardless of the median family income. The mortality rate
+    from self-harm fluctuates from 15 to 25, from the lowest income county, to
+    the highest with the occasional outliers. The highest earning median family
+    income at $85,885 corresponds with an average 20 mortality rate, while the
+    lowest median family income at $51,882 corresponds to a low 15.1 mortality
+    rate. Reasons why people resort to self-harm are: pressures, loss, and
+    feelings of inadequacy. This is not as closely tied to financial security,
+    because people coming from high income families can also feel the pressure
+    of needing to live up to their parents. In these cases, financial security
+    does not act as a helping factor but just as an additional stressor. "
   })
   
-  output$mental_drug_analysis <- renderText({
+  output$money_drug_analysis <- renderText({
+    "Just like with Self-Harm there does not seem to be a close-tied relationship
+    between drug abuse and median family income. Many people who eventually become
+    addicted to drugs, begin through recreational use. Recreational use of drugs
+    is not tied to any socioeconomic status, although individuals coming from higher
+    income families can have more disposable cash to use on drugs. The mortality
+    rate from drug use disorders generally fluctuates between 2 and 3.5. 4 of the
+    top 6 median family income counties have a mortality rate under 1.5. 2 of the
+    bottom 5 median family income counties have a mortality rate less than 2.
+    Outside general fluctuations the mortality rate from drug use seems to be
+    consistent across socioeconomic classes. "
   })
   
-  output$mental_interpersonal_analysis <- renderText({
+  output$money_interpersonal_analysis <- renderText({
+    "Interpersonal violence is defined to be physical, sexual, emotional, or
+    psychological actions or threats of actions to intimidate, frighten, or 
+    terrorize another individual. Looking at the sample data, the top 6 median
+    family income counties, 5 of which have a mortality rates from interpersonal
+    violence at less than 3. While the highest mortality rates come in from the
+    bottom 5 median family income counties at 5 and 8.8. It is worth noting that
+    the rest of the data generally fluctuates at a mortality rate from 2 to 4. 
+    Without focusing too much on the outliers, socioeconomic status does not seem
+    to have a drastic effect on lowering mortality rates from interpersonal violence. "
+  })
+  
+  output$reference_three <- renderUI({
+    ref_1 <-
+      "http://alcoholrehab.com/drug-addiction/reasons-for-substance-abuse/"
+    ref_2 <- 
+      "https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-harm/why-people-self-harm/"
+    ref_3 <- "https://www.projectknow.com/research/drug-abuse-causes/"
+    ref_4 <- "https://safe.unc.edu/learn-more/prohibited-behaviors/interpersonal-violence/"
+    HTML(paste(ref_1, ref_2, ref_3, ref_4, sep = '<br/>'))
   })
   
 ## END OF QUESTION 3

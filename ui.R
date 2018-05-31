@@ -102,7 +102,24 @@ my_ui <- fluidPage (
                        wealth affects overall mortality rates for populations (are wealthier 
                        populations less prone to death overall/to certain types?)."),
                     br(),
-                    plotOutput("question_three_table_a")
+                    plotOutput("question_three_table_a"),
+                    br(),
+                    p("*Using sample data from Wyoming 1998"),
+                    br(),
+                    h3("Prosperity and Alcohol Use Disorder Analysis"),
+                    textOutput("money_alcohol_analysis"),
+                    br(),
+                    h3("Prosperity and Self-harm Analysis"),
+                    textOutput("money_self_harm_analysis"),
+                    br(),
+                    h3("Prosperity and Drug Use Disorder Analysis"),
+                    textOutput("money_drug_analysis"),
+                    br(),
+                    h3("Prosperity and Interpersonal Violence Analysis"),
+                    textOutput("money_interpersonal_analysis"),
+                    br(),
+                    h3("Reference"),
+                    htmlOutput("reference_three")
                   ),
                   tabPanel("Outside-the-Box Analysis: Self-Harm and Health Bills",
                     h3("Over the past 20 years, with increases in mental illness/disorder awareness

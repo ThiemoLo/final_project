@@ -494,20 +494,23 @@ my_server <- function(input, output) {
     state_data <- read.csv(paste0("./data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"), 
                            stringsAsFactors = FALSE)
     final_data <- left_join(state_data, prosperity_data, by = "location_name")
-    final_data <- filter(final_data, year_id == input$year_slider, sex == "Both",
-                         cause_name == input$type_slider, State == input$state_select)
-
+    
+    final_data <- final_data %>%
+      filter(year_id == input$year) %>%
+      filter(cause_name == input$abuse_type) %>%
+      filter(sex == "Both") %>%
+      filter(State == input$state_select)
+    
     #Graph of mx mortality rate as median family income rises
     p <- ggplot(data = final_data) +
       geom_point(mapping = aes(x = Median.family.income, y = mx)) +
       labs(
         title = paste0("Average Mortality Rates By Median Family Income for ", input$state_select, 
                        " in ", input$year),
-        theme(axis.text.x = element_text(face="bold", color="#993333", 
-                                         size=10, angle=45)),
-        x = "Median Family Income ($)",
-        y = paste0("Mortality Rate by ", input$abuse_type) 
-      ) 
+        x = "Median Faily Income ($)",
+        y = paste0("Mortality Rate by ", input$abuse_type)
+      ) +
+      theme(axis.text.x = element_text(angle = 90, hjust = 1))
     p
   })
   

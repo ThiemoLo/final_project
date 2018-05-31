@@ -186,8 +186,8 @@ my_server <- function(input, output) {
     # Question 1 graph b
     b <- ggplot(baby_change, aes(x = year_id, y = lower_bound)) +
       geom_line(color = "red") +
-      geom_line(data = x_change, color = "blue") +
-      geom_line(data = y_change, color = "green") +
+      geom_line(data = x_change, color = "green") +
+      geom_line(data = y_change, color = "blue") +
       labs(
         title = paste0("Trend in ", input$abuse_type, " for Different Generations for ", input$state_select),
         x = "Year",
@@ -202,7 +202,7 @@ my_server <- function(input, output) {
     boomers, generation x, and generation y. With age standardization of the data around the age of 27 this
     age was used to determine which generation the year's data fell into. This is why for the years 1980-
     2014 only three generations are shown while two more generations existed in this time (the silent
-    generation and generation z)"
+    generation and generation z). You can filter by mortality type"
   })
   output$table_a <- renderText({
     "This table shows the data from the above graph is a more concrete fashion."
@@ -210,9 +210,47 @@ my_server <- function(input, output) {
   output$graph_b <- renderText({
     "This graph shows year on the x-axis between 1980 and 2014 and has mortality percentage,
     It helps show the overall trend. The colors of the lines represent in which generational
-    period the year was in and matches the key of the first graph. Filtering by state and
-    mortality type can show the decline of alcohol interpersonal violence"
+    period the year was in and matches the key of the first graph. You can filter by state
+    and mortality type"
   })
+  output$analysis_one <- renderText({
+    "From filtering through the different states and mortality type two main trends appear.
+    The first is that alcohol abuse and interpersonal violence have been decreasing overall
+    between the time period. Each generation (baby boomer, generation x, and generation y)
+    has decreased the mortality of these types more than the previous generation. This
+    could be due to overall decreases in alcohol consumption/taste by newer generations. 
+    It could also be due to the increased popularity of marijuana, which is a substitute.
+    We see the opposite second trend with drug abuse and self-harm. While both of these
+    mortality types have been decreasing during the baby boomer and generationx eras, at
+    either the end of generation x or the beginning of generation y these mortality rates
+    have increased. Even though the United States government enacted heavy anti-drug
+    legislation in the 1970's through 1990's (enacted by the baby boomer generation and
+    lived through by x and y), this has not slowed down the epidemic facing most states
+    in this country. We can also see a spike in some cases in generation y which could
+    be seen as partly due to the opioid crisis we still currently face. The reasons for
+    self-harm could be attributed to the rise of the internet age for generation x and
+    especially y. Social media and easier online communication has attributed to a rise
+    in cyberbullying with the potential consequence of suicide."
+  })
+  output$conclusion_one <- renderText({
+    "We can see from this data that different generations have fought with different
+    vices, however we as a country have been overall able to combat them once they 
+    have reached crisis level. It seems now that generation x and y will have to
+    overcome the rise in drug abuse and self harm."
+  })
+  output$reference_one <- renderUI({
+    reference_1 <-
+      "https://www.npr.org/templates/story/story.php?storyId=9252490"
+    reference_2 <- 
+      "https://www.drugabuse.gov/drugs-abuse/opioids/opioid-overdose-crisis"
+    reference_3 <- "https://www.washingtonpost.com/news/wonk/wp/2017/12/01/
+      medical-marijuana-took-a-bite-out-of-alcohol-sales-recreational-pot-could
+      -take-an-even-bigger-one/?noredirect=on&utm_term=.947b8b7dcd37"
+    reference_4 <- "https://www.cbsnews.com/news/suicide-youth-teens-whats-behind-rise/"
+    HTML(paste(reference_1, reference_2, reference_3, reference_4, sep = '<br/>'))
+  })
+
+  
 ## END OF QUESTION 1 SERVER
   
 ## QUESTION 2 SERVER

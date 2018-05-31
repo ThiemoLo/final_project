@@ -33,20 +33,35 @@ my_ui <- fluidPage (
                     "Generational Data", h3("As this data set contains the lives of those in different generations is there any
                                             major difference between the mortality rates and types for each generation? What could
                                             some of the historical events or factors that could have contributed to this correlations?"),
-                      br(),
-                      textOutput("graph_a"),
-                      plotOutput("question_one_plot_a"),
-                      textOutput("table_a"),
-                      br(), DTOutput("question_one_table_a"),
-                      textOutput("graph_b"),
-                      br(), plotOutput("question_one_plot_b")
+                    br(),
+                    h3("Visualizations"),
+                    textOutput("graph_a"),
+                    br(),
+                    plotOutput("question_one_plot_a"),
+                    br(),
+                    textOutput("table_a"),
+                    br(),
+                    DTOutput("question_one_table_a"),
+                    br(),
+                    textOutput("graph_b"),
+                    br(),
+                    plotOutput("question_one_plot_b"),
+                    br(),
+                    h3("Observations and Analysis"),
+                    textOutput("analysis_one"),
+                    br(),
+                    h3("Conclusion"),
+                    textOutput("conclusion_one"),
+                    br(),
+                    h3("Reference"),
+                    htmlOutput("reference_one")
                   ),
                   tabPanel("Ripple Effects",
                            h3("Are there high concentration regions of certain mortality types and do these 
-                               concentrated areas have noticeable ripple effects in surrounding states? In 
-                               other words, does the mortality rate of a single state affect those of its 
-                               neighboring states? What are the possible factors contributing to the 
-                               results."),
+                              concentrated areas have noticeable ripple effects in surrounding states? In 
+                              other words, does the mortality rate of a single state affect those of its 
+                              neighboring states? What are the possible factors contributing to the 
+                              results."),
                            br(),
                            h3("Visualizations"),
                            br(),
@@ -57,7 +72,7 @@ my_ui <- fluidPage (
                            textOutput("variable_explained"),
                            h3("Observations and Analysis"),
                            tags$head(tags$style("#variable_explained{font-size: 16px;
-                                                           font-style: italic;}")),
+                                                font-style: italic;}")),
                            h4("Alcohol"),
                            textOutput("alcohol_analysis"),
                            br(),
@@ -79,15 +94,15 @@ my_ui <- fluidPage (
                            tags$head(tags$style("#conclusion{font-size: 18px;}")),
                            h3("Reference"),
                            htmlOutput("reference"))
-                  ),
-                  tabPanel(
-                    "Question 3", br()
-                  ),
-                  tabPanel(
-                    "Question 4", br()
-                  )
-                           )  
+                           ),
+      tabPanel(
+        "Question 3", br()
+      ),
+      tabPanel(
+        "Question 4", br()
       )
+                  )  
     )
-  
+  )
+
 shinyUI(my_ui)

@@ -262,7 +262,8 @@ my_server <- function(input, output) {
      to the nearest available options. In the above table, the variable Change 
      was calculated based on the average of the differences between the state's 
      mortality rate and those of all its neighboring states. Due to geographical
-     natures, the states of Alaska and Hawaii will be excluded from the analysis."
+     locations, the states of Alaska and Hawaii will be excluded from the 
+     analysis."
   })  
 
   output$alcohol_analysis <- renderText({
@@ -312,8 +313,30 @@ my_server <- function(input, output) {
   output$interpersonal_violence_analysis <- renderText({
     "Similar to self-harm, interpersonal violence seemed to be extremely
      one-sided: The south had had a consistently higher interpersonal violence
-     mortality rate than the north. "
+     mortality rate than the north. This was likely due to the higher crime
+     rates in the south of United States froom 1976 to 2000"
   })
+
+  output$conclusion <- renderText({
+    "In conclusion, whether or not there were states that served as sources
+     that directly influence the mortality rates of their surrounding states
+     depends on the type of morality discussed. As for alcohol, due to the 
+     similarity between each state's legal status and people's accessibility 
+     to alcohol, all of the states share pretty much the same statistics with
+     a few outliers like New Mexico and Alaska, so no significant ripple
+     effect. Drugs on the other hand, initially had a few states with high
+     mortality rates, and eventually spread out evenly for all states. Over the
+     span of 30 years, smugglers were likely able to come up with means to 
+     transport their products to expand their markets, giving people from more
+     states access to drugs. Therefore a ripple effect might be present for
+     drugs. Self-harm and interpersonal violence shared a similar property:
+     a confounding variable created a ripple-effect-lookalike. All of the
+     states with higher self-harm rates tend to have higher altitude, which is
+     found to be a factor contributing to depression; All of the states with
+     higher interpersonal violence rates tend to have a higher crime rates.
+     So for the last two types it really is just a conincidence that adjacent
+     states happen to share a similarity in their characteristics."
+  })  
 }
 
 shinyServer(my_server)

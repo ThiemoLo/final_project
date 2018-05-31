@@ -64,14 +64,21 @@ my_ui <- fluidPage (
                            h3("Observations and Analysis"),
                            tags$head(tags$style("#variable_explained{font-size: 16px;
                                                            font-style: italic;}")),
+                           h4("Alcohol"),
                            textOutput("alcohol_analysis"),
                            tags$head(tags$style("#alcohol_analysis{font-size: 18px;}")),
+                           h4("Drug"),
                            textOutput("drug_analysis"),
                            tags$head(tags$style("#drug_analysis{font-size: 18px;}")),
+                           h4("Self-harm"),
                            textOutput("self_harm_analysis"),
                            tags$head(tags$style("#self_harm_analysis{font-size: 18px;}")),
+                           h4("Interpersonal Violence"),
                            textOutput("interpersonal_violence_analysis"),
-                           tags$head(tags$style("#interpersonal_violence_analysis{font-size: 18px;}"))))  
+                           tags$head(tags$style("#interpersonal_violence_analysis{font-size: 18px;}")),
+                           h3("Conclusion"),
+                           textOutput("conclusion"),
+                           tags$head(tags$style("#conclusion{font-size: 18px;}"))))  
       )
     )
   )

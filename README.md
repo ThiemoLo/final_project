@@ -1,7 +1,7 @@
 # INFO 201 Final Project: Mortality Rates
 ### Created By Nile Picnic Squirrels(Group AB3): Thiemo Loos, Hongyang Zhang, Jason Suh, Igor Banin
 
-#Introduction
+Introduction
 The data set we are using is mortality rates in the United States by substance abuse disorders
 and intentional injurious collected by the Institute for Health Metrics and Evaluation Institute
 for Health Metrics of the University of Washington. This data uses US census data for populations
@@ -20,7 +20,7 @@ these types through government reports on public policy and its past effects on 
 This system will allow you to look through our analysis on four core problems listed in the next tabs.
 You can filter the data visualizations by state, year, and mortality where it is appropriate.
 
-#Questions
+Questions
 1. As this data set contains the lives of those in different generations is there any
 major difference between the mortality rates and types for each generation? What could
 some of the historical events or factors that could have contributed to this correlations?
@@ -34,7 +34,7 @@ results.
 3. Do mortality rate and economic prosperity have an effect on each other?
 The two seem unrelated, but are they actually similar or do they have a
 relationship to each other? Correlation between socio-economics and how
-wealth affects overall mortality rates for populations (are wealthier 
+wealth affects overall mortality rates for populations (are wealthier
 populations less prone to death overall/to certain types?)
 
 4. Over the past 20 years, with increases in mental illness/disorder awareness

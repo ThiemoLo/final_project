@@ -30,13 +30,23 @@ my_ui <- fluidPage (
       h3("Findings Panel"),
       tabsetPanel(type = "tabs",
                   tabPanel(
-                    "Generational Data", br(), plotOutput("question_one_plot_a"), br(), DTOutput("question_one_table_a"), br(), plotOutput("question_one_plot_b")
+                    "Generational Data", h3("As this data set contains the lives of those in different generations is there any
+                                            major difference between the mortality rates and types for each generation? What could
+                                            some of the historical events or factors that could have contributed to this correlations?"),
+                      br(),
+                      textOutput("graph_a"),
+                      plotOutput("question_one_plot_a"),
+                      textOutput("table_a"),
+                      br(), DTOutput("question_one_table_a"),
+                      textOutput("graph_b"),
+                      br(), plotOutput("question_one_plot_b")
                   ),
-                  tabPanel("Ripple Effect", h1("Are there high concentration regions of certain mortality types and do these 
+                  tabPanel("Ripple Effect", h3("Are there high concentration regions of certain mortality types and do these 
                                             concentrated areas have noticeable ripple effects in surrounding states? In 
                                             other words, does the mortality rate of a single state affect those of its 
-                                            neighboring states? And what are the possible factors contributing to the 
+                                            neighboring states? What are the possible factors contributing to the 
                                             results"),
+                           br(),
                            h3("Visualizations"),
                            br(),
                            plotlyOutput("choropleth_map", height = 500),
@@ -48,12 +58,16 @@ my_ui <- fluidPage (
                            tags$head(tags$style("#variable_explained{font-size: 16px;
                                                            font-style: italic;}")),
                            textOutput("alcohol_analysis"),
+                           br(),
                            tags$head(tags$style("#alcohol_analysis{font-size: 18px;}")),
                            textOutput("drug_analysis"),
+                           br(),
                            tags$head(tags$style("#drug_analysis{font-size: 18px;}")),
                            textOutput("self_harm_analysis"),
+                           br(),
                            tags$head(tags$style("#self_harm_analysis{font-size: 18px;}")),
                            textOutput("interpersonal_violence_analysis"),
+                           br(),
                            tags$head(tags$style("#interpersonal_violence_analysis{font-size: 18px;}")))
                   ),
                   tabPanel(

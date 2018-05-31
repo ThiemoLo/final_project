@@ -9,11 +9,9 @@ library("tidyr")
 library("DT")
 
 ## QUESTION 1 DATA FORMATTING
-generation_silent <- (1925:1945)
 generation_baby_boomer <- (1946:1964)
 generation_x <- (1965:1979)
 generation_y <- (1980:1994)
-generation_z <- (1995:2012)
 
 ## QUESTION 2 DATA FORMATTING
 
@@ -83,66 +81,49 @@ my_server <- function(input, output) {
     state_data <- read.csv(paste0("./data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"))
     ## Find birth year and generational bucket
     state_data <- state_data %>%
-      mutate(birth_year = year_id - 21) %>%
+      mutate(birth_year = year_id - 27) %>%
       mutate(generation =
                case_when(
-                 birth_year %in% generation_silent ~ "Silent",
                  birth_year %in% generation_baby_boomer ~ "Baby Boomer",
                  birth_year %in% generation_x ~ "X",
-                 birth_year %in% generation_y ~ "Y",
-                 birth_year %in% generation_z ~ "Z"
+                 birth_year %in% generation_y ~ "Y"
                ))
     ## For overall statistics
-    silent <- state_data %>%
-      filter(generation == "Silent") %>% 
-      group_by(cause_name) %>%
-      summarize(
-        silent_lower_bound = mean(lower),
-        silent_upper_bound = mean(upper)
-      )
     baby <- state_data %>%
       filter(generation == "Baby Boomer") %>%
       group_by(cause_name) %>%
       summarize(
-        baby_lower_bound = mean(lower),
-        baby_upper_bound = mean(upper)
+        baby_lower_bound = round(mean(lower), 3),
+        baby_upper_bound = round(mean(upper), 3)
       )
     x <- state_data %>%
       filter(generation == "X") %>%
       group_by(cause_name) %>%
       summarize(
-        x_lower_bound = mean(lower),
-        x_upper_bound = mean(upper)
+        x_lower_bound = round(mean(lower), 3),
+        x_upper_bound = round(mean(upper), 3)
       )
     y <- state_data %>%
       filter(generation == "Y") %>%
       group_by(cause_name) %>%
       summarize(
-        y_lower_bound = mean(lower),
-        y_upper_bound = mean(upper)
-      )
-    z <- state_data %>%
-      filter(generation == "Z") %>%
-      group_by(cause_name) %>%
-      summarize(
-        z_lower_bound = mean(lower),
-        z_interval_upper_bound = mean(upper)
+        y_lower_bound = round(mean(lower), 3),
+        y_upper_bound = round(mean(upper), 3)
       )
     
     # Combining different generations
-    state_combined <- right_join(silent, baby, by = "cause_name")
-    state_combined <- left_join(state_combined, x, by = "cause_name")
+    state_combined <- left_join(baby, x, by = "cause_name")
     state_combined <- left_join(state_combined, y, by = "cause_name")
-    state_combined <- left_join(state_combined, z, by = "cause_name")
+
     
     output$question_one_table_a <- renderDT({
       state_combined
     })
     
     # Turns data into long format for easier graphing
-    state_combined_long <- gather(state_combined, key = data_type, value = mortality_percentage, silent_lower_bound,
-                                  silent_upper_bound, baby_lower_bound, baby_upper_bound, x_lower_bound, x_upper_bound,
-                                  y_lower_bound, y_upper_bound, z_lower_bound, z_interval_upper_bound)
+    state_combined_long <- gather(state_combined, key = data_type, value = mortality_percentage,
+                                  baby_lower_bound, baby_upper_bound, x_lower_bound, x_upper_bound,
+                                  y_lower_bound, y_upper_bound)
     state_combined_long <- state_combined_long %>%
       mutate(generation =  gsub("_.*","", state_combined_long$data_type))
     
@@ -153,7 +134,8 @@ my_server <- function(input, output) {
       labs(
         title = paste0("Average Mortality Rates By Generation Between 1980 and 2014 for ", input$state_select),
         x = "Mortality Type",
-        y = "Mortality Percentage (%)"
+        y = "Mortality Percentage (%)",
+        color = "Generations"
       ) +
       theme(axis.text.x = element_text(angle = 90, hjust = 1))
     a
@@ -163,67 +145,49 @@ my_server <- function(input, output) {
     fixed_state <- gsub(" ", "_", input$state_select)
     state_data <- read.csv(paste0("./data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"))
     ## Find birth year and generational bucket
+    fixed_state <- gsub(" ", "_", input$state_select)
+    state_data <- read.csv(paste0("./data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"))
+    ## Find birth year and generational bucket
     state_data <- state_data %>%
-      mutate(birth_year = year_id - age_id) %>%
+      mutate(birth_year = year_id - 27) %>%
       mutate(generation =
                case_when(
-                 birth_year %in% generation_silent ~ "Silent",
                  birth_year %in% generation_baby_boomer ~ "Baby Boomer",
                  birth_year %in% generation_x ~ "X",
-                 birth_year %in% generation_y ~ "Y",
-                 birth_year %in% generation_z ~ "Z"
+                 birth_year %in% generation_y ~ "Y"
                ))
-    ## Year over year changes for specific type
+    ## Year changes for specific type
     type <- input$abuse_type
-    
-    silent_change <- state_data %>%
-      filter(generation == "Silent") %>%
-      filter(cause_name == type) %>%
-      group_by(year_id) %>%
-      summarize(
-        x_lower_bound = mean(lower),
-        x_upper_bound = mean(upper)
-      )
     baby_change <- state_data %>%
       filter(generation == "Baby Boomer") %>%
       filter(cause_name == type) %>%
       group_by(year_id) %>%
       summarize(
-        x_lower_bound = mean(lower),
-        x_upper_bound = mean(upper)
+        lower_bound = mean(lower),
+        upper_bound = mean(upper)
       )
     x_change <- state_data %>%
       filter(generation == "X") %>%
       filter(cause_name == type) %>%
       group_by(year_id) %>%
       summarize(
-        x_lower_bound = mean(lower),
-        x_upper_bound = mean(upper)
+        lower_bound = mean(lower),
+        upper_bound = mean(upper)
       )
     y_change <- state_data %>%
       filter(generation == "Y") %>%
       filter(cause_name == type) %>%
       group_by(year_id) %>%
       summarize(
-        x_lower_bound = mean(lower),
-        x_upper_bound = mean(upper)
-      )
-    z_change <- state_data %>%
-      filter(generation == "Z") %>%
-      filter(cause_name == type) %>%
-      group_by(year_id) %>%
-      summarize(
-        x_lower_bound = mean(lower),
-        x_upper_bound = mean(upper)
+        lower_bound = mean(lower),
+        upper_bound = mean(upper)
       )
     
     # Question 1 graph b
-    b <- ggplot(silent_change, aes(x = year_id, y = x_lower_bound)) +
-      geom_line() +
-      geom_line(data = baby_change, color = "red") +
+    b <- ggplot(baby_change, aes(x = year_id, y = lower_bound)) +
+      geom_line(color = "red") +
       geom_line(data = x_change, color = "blue") +
       geom_line(data = y_change, color = "green") +
-      geom_line(data = z_change, color = "purple") +
       labs(
         title = paste0("Trend in ", input$abuse_type, " for Different Generations for ", input$state_select),
         x = "Year",
@@ -231,7 +195,24 @@ my_server <- function(input, output) {
       )
     b
   })
-  
+  output$graph_a <- renderText({
+    "This graph shows the mortality type on the x-axis and mortality percentage on the y-axis for a
+    specific state. The data shown is the average upper and lower 95% uncertainty levels for each mortality
+    type. This will show key differences in which mortality types were the worst for each generation (baby
+    boomers, generation x, and generation y. With age standardization of the data around the age of 27 this
+    age was used to determine which generation the year's data fell into. This is why for the years 1980-
+    2014 only three generations are shown while two more generations existed in this time (the silent
+    generation and generation z)"
+  })
+  output$table_a <- renderText({
+    "This table shows the data from the above graph is a more concrete fashion."
+  })
+  output$graph_b <- renderText({
+    "This graph shows year on the x-axis between 1980 and 2014 and has mortality percentage,
+    It helps show the overall trend. The colors of the lines represent in which generational
+    period the year was in and matches the key of the first graph. Filtering by state and
+    mortality type can show the decline of alcohol interpersonal violence"
+  })
 ## END OF QUESTION 1 SERVER
   
 ## QUESTION 2 SERVER

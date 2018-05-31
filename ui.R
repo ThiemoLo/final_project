@@ -95,7 +95,14 @@ my_ui <- fluidPage (
                            h3("Reference"),
                            htmlOutput("reference")
                   ),
-                  tabPanel( "Question 3", br()
+                  tabPanel( "Economic Prosperity and Mortality",
+                    h3("Do mortality rate and economic prosperity have an effect on each other? 
+                       The two seem unrelated, but are they actually similar or do they have a 
+                       relationship to each other? Correlation between socio-economics and how 
+                       wealth affects overall mortality rates for populations (are wealthier 
+                       populations less prone to death overall/to certain types?)."),
+                    br(),
+                    plotOutput("question_three_table_a")
                   ),
                   tabPanel("Outside-the-Box Analysis: Self-Harm and Health Bills",
                     h3("Over the past 20 years, with increases in mental illness/disorder awareness

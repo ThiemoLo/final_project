@@ -1,5 +1,6 @@
 #Prepares the packages needed
-# install.packages("splitstackshape")
+#install.packages("splitstackshape")
+#install.packages("plotly")
 
 library("dplyr")
 library("plotly")
@@ -506,6 +507,18 @@ my_server <- function(input, output) {
         y = paste0("Mortality Rate by ", input$type_slider) 
       ) 
     p
+  })
+  
+  output$money_alcohol_analysis <- renderText({
+  })
+  
+  output$money_self_harm_analysis <- renderText({
+  })
+  
+  output$mental_drug_analysis <- renderText({
+  })
+  
+  output$mental_interpersonal_analysis <- renderText({
   })
   
 ## END OF QUESTION 3

@@ -1,0 +1,12 @@
+name: final_project
+title: final_project
+username:
+account: igorbanin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 351990
+bundleId: 1403361
+url: https://igorbanin.shinyapps.io/final_project/
+when: 1527797738.84957
+asMultiple: FALSE
+asStatic: FALSE

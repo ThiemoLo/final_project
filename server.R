@@ -336,7 +336,49 @@ my_server <- function(input, output) {
      higher interpersonal violence rates tend to have a higher crime rates.
      So for the last two types it really is just a conincidence that adjacent
      states happen to share a similarity in their characteristics."
-  })  
+  }) 
+  
+  output$reference <- renderUI({
+    reference1 <-
+      "Hanson, D. J. (2017, March 01). Prohibition in New Mexico was Welcomed, 
+       then Rejected. Retrieved from 
+       https://www.alcoholproblemsandsolutions.org/prohibition-in-new-mexico/"
+    
+    reference2 <-
+      "Gallup, Inc. (2002, July 09). Decades of Drug Use: The '80s and '90s. 
+       Retrieved from 
+       http://news.gallup.com/poll/6352/decades-drug-use-80s-90s.aspx" 
+    
+    reference3 <-
+      "History of Ecstasy (MDMA). (n.d.). Retrieved from 
+       https://www.narconon.org/drug-information/ecstasy-history.html"
+    
+    reference4 <-
+      "Travel Tips & Information. (n.d.). Retrieved from 
+       http://www.visitcalifornia.com/feature/travel-tips-information"
+    
+    reference5 <-
+      "Holmes, L. (2017, December 07). This Is Your Brain On Spring. 
+       Retrieved from 
+       https://www.huffingtonpost.com/2015/04/22/warm-weather-mood_n_7056636.html"
+    
+    reference6 <-
+      "United States Substance Use Disorders and Intentional Injuries Mortality Rates 
+       by County 1980-2014. (1970, January 01). Retrieved from 
+       http://ghdx.healthdata.org/record/united-states-substance-use-disorders-and-intentional-injuries-mortality-rates-county-1980"
+    
+    reference7 <-
+      "Murder Rates Nationally and By State. (n.d.). Retrieved from 
+       https://deathpenaltyinfo.org/murder-rates-nationally-and-state"
+    
+    reference8 <-
+      "Best, A. (2015, May 12). Thin Air Might Increase Depression in Mountain 
+       States. Retrieved May 30, 2018, from 
+       https://www.livescience.com/50813-low-oxygen-increase-depression.html"
+    
+    HTML(paste(reference1, reference2, reference3, reference4, reference5,
+               reference6, reference7, reference8, sep = '<br/>'))
+  })
 }
 
 shinyServer(my_server)

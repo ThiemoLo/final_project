@@ -78,7 +78,9 @@ my_ui <- fluidPage (
                            tags$head(tags$style("#interpersonal_violence_analysis{font-size: 18px;}")),
                            h3("Conclusion"),
                            textOutput("conclusion"),
-                           tags$head(tags$style("#conclusion{font-size: 18px;}"))))  
+                           tags$head(tags$style("#conclusion{font-size: 18px;}")),
+                           h3("Reference"),
+                           htmlOutput("reference")))  
       )
     )
   )

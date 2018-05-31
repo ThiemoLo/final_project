@@ -34,6 +34,12 @@ neighbor_states <-
   read.csv("./data/neighbors-states.csv", stringsAsFactors = FALSE) %>%
   filter(StateCode != "HI" & StateCode != "AK" & StateCode != "DC")
 
+## QUESTION 3 DATA FORMATTING
+
+prosperity_data <- read.csv(file = "data/per_capita_income_per_county.csv", stringsAsFactors = FALSE)
+colnames(prosperity_data)[2] <- "location_name"
+prosperity_data$location_name <- paste(prosperity_data$location_name, "County")
+
 #Renamse the columns for easier data wrangling 
 columns_renamed <- c("location", "fips", "y1980", "y1985", "y1990", "y1995", 
                      "y2000", "y2005", "y2010", "y2014", "change")
@@ -480,6 +486,30 @@ my_server <- function(input, output) {
 
 ## END OF QUESTION 2 SERVER
 
+## QUESTION 3 PROSPERITY
+  
+  output$question_three_table_a <- renderTable({
+    fixed_state <- gsub(" ", "_", input$state_select)
+    state_data <- read.csv(paste0("./data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"), 
+                           stringsAsFactors = FALSE)
+    final_data <- left_join(state_data, prosperity_data, by = "location_name")
+    final_data <- filter(year_id == input$year_slider)
+    final_data <- type <- input$type_slider
+    
+    #Graph of mx mortality rate as median family income rises
+    p <- ggplot(data = final_data) +
+      geom_point(mapping = aes(x = Median.family.income, y = mx)) +
+      labs(
+        title = paste0("Average Mortality Rates By Median Family Income for ", input$state_select, 
+                       " in ", input$year_slider),
+        x = "Median Faily Income ($)",
+        y = paste0("Mortality Rate by ", input$type_slider) 
+      ) 
+    p
+  })
+  
+## END OF QUESTION 3
+  
 ## QUESTIOn 4 SERVER
   output$self_harm_review_line <- renderPlot({
     avg_self_harm_line_graph

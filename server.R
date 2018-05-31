@@ -15,7 +15,10 @@ final_data <- left_join(data, prosperity_data, by = "location_name")
 final_data <- filter(final_data, year_id == "1998", sex == "Both",
                      cause_name == "Alcohol use disorders", State == "Wyoming")
 ggplot(data = final_data) +
+  geom_smooth(mapping = aes(x = Median.family.income, y = mx)) +
   geom_point(mapping = aes(x = Median.family.income, y = mx)) +
+  theme(axis.text.x = element_text(face="bold", color="#993333", 
+                                   size=10, angle=70)) + 
   labs(
     title = paste0("Average Mortality Rates By Median Family Income for ", "input$state_select", 
                    " in ", "input$year_slider"),

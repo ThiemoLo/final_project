@@ -87,7 +87,7 @@ my_server <- function(input, output) {
 ## QUESTION 1 SERVER
   output$question_one_plot_a <- renderPlot({
     fixed_state <- gsub(" ", "_", input$state_select)
-    state_data <- read.csv(paste0("data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"))
+    state_data <- read.csv(paste0("data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", toupper(fixed_state), "_Y2018M03D13.CSV"))
     ## Find birth year and generational bucket
     state_data <- state_data %>%
       mutate(birth_year = year_id - 27) %>%
@@ -152,10 +152,10 @@ my_server <- function(input, output) {
   output$question_one_plot_b <- renderPlot({
     ## Pulling in correct csv file based on state selected
     fixed_state <- gsub(" ", "_", input$state_select)
-    state_data <- read.csv(paste0("data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"))
+    state_data <- read.csv(paste0("data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", toupper(fixed_state), "_Y2018M03D13.CSV"))
     ## Find birth year and generational bucket
     fixed_state <- gsub(" ", "_", input$state_select)
-    state_data <- read.csv(paste0("data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"))
+    state_data <- read.csv(paste0("data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", toupper(fixed_state), "_Y2018M03D13.CSV"))
     ## Find birth year and generational bucket
     state_data <- state_data %>%
       mutate(birth_year = year_id - 27) %>%
@@ -491,7 +491,7 @@ my_server <- function(input, output) {
   
   output$question_three_table_a <- renderPlot({
     fixed_state <- gsub(" ", "_", input$state_select)
-    state_data <- read.csv(paste0("data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", fixed_state, "_Y2018M03D13.CSV"), 
+    state_data <- read.csv(paste0("data/IHME_USA_COUNTY_USE_INJ_MORTALITY_1980_2014_", toupper(fixed_state), "_Y2018M03D13.CSV"), 
                            stringsAsFactors = FALSE)
     final_data <- left_join(state_data, prosperity_data, by = "location_name")
     
